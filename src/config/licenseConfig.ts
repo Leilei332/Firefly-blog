@@ -20,5 +20,5 @@ export const licenseConfig: LicenseConfig = {
 	//   → fa7-brands:osi
 	//   其余未匹配的许可证（如 All Rights Reserved、WTFPL 等）
 	//   → fa7-regular:copyright
-	icon: "",
+	icon: "fa7-brands:creative-commons",
 };

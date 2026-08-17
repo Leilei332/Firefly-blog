@@ -11,16 +11,16 @@ const pages = resolvePageToggles({
 	// ── 社交 (Social) ──────────────────────────────────
 
 	// 友链页面开关
-	friends: true,
+	friends: false,
 	// 留言板页面开关，需要配置评论系统
-	guestbook: true,
+	guestbook: false,
 
 	// ── 我的 (My) ──────────────────────────────────
 
 	// 动态页面开关
 	dynamic: true,
 	// 相册页面开关
-	gallery: true,
+	gallery: false,
 	// 书签导航页面开关
 	booknav: true,
 	// 哔哩哔哩追番页面开关
@@ -35,29 +35,29 @@ const pages = resolvePageToggles({
 	// ── 关于 (About) ──────────────────────────────────
 
 	// 打赏页面开关
-	sponsor: true,
+	sponsor: false,
 });
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "Gleymda landið",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "遗忘之地",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
 
 	// 站点描述
 	description:
-		"Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。",
+		"仅仅是另一个被遗忘的地方罢了",
 
 	// 站点关键词
 	keywords: [
 		"Firefly",
 		"Fuwari",
 		"Astro",
-		"ACGN",
+		"Unicode",
 		"博客",
 		"技术博客",
 		"静态博客",
@@ -66,7 +66,7 @@ export const siteConfig: SiteConfig = {
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		hue: 200,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 		defaultMode: "system",
 	},
@@ -81,7 +81,7 @@ export const siteConfig: SiteConfig = {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
 		border: false,
 		// 是否让卡片风格跟随主题色相
-		followTheme: false,
+		followTheme: true,
 	},
 
 	// Favicon 配置
@@ -115,7 +115,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "Gleymda landið",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -185,7 +185,7 @@ export const siteConfig: SiteConfig = {
 			// 是否显示字数
 			showWords: false,
 			// 是否显示阅读时间
-			showReadingTime: false,
+			showReadingTime: true,
 		},
 		// 底部 PostStats 统计信息显示控制
 		// 如果tagsPosition设置为"bottom"，则stats将不显示
@@ -221,7 +221,7 @@ export const siteConfig: SiteConfig = {
 		// 提醒框（Admonitions）配置，修改后需要重启开发服务器才能生效
 		// 主题：'github' | 'obsidian' | 'vitepress' | 'docusaurus'，每个主题风格和语法不同，可根据喜好选择
 		rehypeCallouts: {
-			theme: "github",
+			theme: "obsidian",
 			// 是否启用兼容 Python-Markdown 风格的 admonition 语法（!!!和???语法）
 			// 注意：只有 theme 配置成 obsidian 主题才能基本支持这些语法，其他主题会有样式问题或不兼容的情况
 			enablePythonMarkdownAdmonitions: false,
