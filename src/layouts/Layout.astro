@@ -156,6 +156,7 @@ const siteLang = lang.replace("_", "-");
       )
     }
     <meta name="author" content={profileConfig.name} />
+    <meta name="fediverse:creator" content="@XLBilly@vivaldi.net" />
 
     <meta property="og:site_name" content={siteConfig.title} />
     <meta property="og:url" content={Astro.url} />
@@ -577,6 +578,7 @@ const siteLang = lang.replace("_", "-");
       title={profileConfig.name}
       href={`${Astro.site}rss.xml`}
     />
+    <link rel="me" href="https://social.vivaldi.net/@XLBilly"/>
 
     <!-- Font Setup (Astro Font API) -->
     <FontSetup />
