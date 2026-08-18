@@ -28,9 +28,21 @@ export const profileConfig: ProfileConfig = {
 			showName: false,
 		},
 		{
+			name: "Mastodon",
+			icon: "fa7-brands:mastodon",
+			url: "https://social.vivaldi.net/@XLBilly",
+			showName: false,
+		},
+		{
 			name: "Codeberg",
 			icon: "fa7-brands:codeberg",
 			url: "https://codeberg.org/XLBilly",
+			showName: false,
+		},
+		{
+			name: "Bilibili",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/437194809",
 			showName: false,
 		},
 		{
