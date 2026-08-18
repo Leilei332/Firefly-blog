@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "遗忘之地",
 
 	// 站点 URL
-	site_url: "https://xlbil-test.netlify.app",
+	site_url: "https://xlbil.netlify.app",
 
 	// 站点描述
 	description:
