@@ -11,7 +11,7 @@ export const booknavPageConfig: BooknavPageConfig = {
 	// favicon 自动获取配置
 	favicon: {
 		// 书签未填写 icon 时，是否自动获取目标站点的 favicon 图标
-		enabled: true,
+		enabled: false,
 
 		// favicon 接口地址，{domain} 为占位符，会被替换成目标站点域名
 		// 更换接口只需保证地址里含有 {domain}，例如：
@@ -24,6 +24,95 @@ export const booknavPageConfig: BooknavPageConfig = {
 // 书签导航配置
 // 每个数组项是一个分类组，分类组内的 items 是该分类下的书签
 export const booknavConfig: BooknavGroup[] = [
+	{
+		id: "unicode",
+		name: "Unicode",
+		icon: "mdi:unicode",
+		desc: "Unicode相关",
+		weight: 100,
+		items: [
+			{
+				title: "Unicode Charts",
+				url: "https://unicode.org/charts/",
+				desc: "Unicode官方文档",
+				icon: "mdi:unicode",
+				weight: 10,
+			},
+			{
+				title: "字统网",
+				url: "https://zi.tools",
+				desc: "汉字、Unicode字符信息查询",
+				icon: "mdi:ideogram-chinese-japanese-korean",
+				weight: 10,
+			},
+			{
+				title: "Codepoints",
+				url: "https://codepoints.net",
+				desc: "Unicode字符信息查询",
+				icon: "mdi:question-mark-rhombus",
+				weight: 10,
+			},
+		],
+	},
+	{
+		id: "fun",
+		name: "Fun",
+		icon: "material-symbols:gamepad-outline-rounded",
+		desc: "有趣的网站",
+		weight: 100,
+		items: [
+			{
+				title: "The Useless Web",
+				url: "https://theuselessweb.com",
+				desc: "随机前往一个无用网站",
+				// icon 字段可以使用 astro-icon 图标库的图标名称
+				// 也可以使用图片 URL 和本地图片路径
+				// 不填则会通过接口自动获取目标站点的 favicon 图标（需要在上面配置）
+				weight: 10,
+			},
+			{
+				title: "The Restart Page",
+				url: "https://therestartpage.com",
+				desc: "模拟旧操作系统重启界面",
+				icon: "mdi:restart",
+				weight: 10,
+			},
+			{
+				title: "世界最高的网页",
+				url: "https://worlds-highest-website.com/",
+				desc: "使用CSS实现",
+				icon: "material-symbols:height",
+				weight: 10,
+			},
+			{
+				title: "Unix History",
+				url: "https://levenez.com/unix/",
+				desc: "Unix发展历史时间线",
+				icon: "mdi:linux",
+				weight: 10,
+			},
+			{
+				title: "Winworld",
+				url: "https://winworldpc.com",
+				desc: "提供旧版操作系统和软件等资源",
+				icon: "mdi:computer",
+				weight: 10,
+			},
+			{
+				title: "User Inyerface",
+				url: "https://winworldpc.com",
+				desc: "糟糕的UI设计实例",
+				weight: 10,
+			},	
+			{
+				title: "Lexy's Labyrinth",
+				url: "https://winworldpc.com",
+				desc: "推箱子解谜游戏",
+				icon: "mdi:map",
+				weight: 10,
+			},	
+		],
+	},
 	{
 		id: "dev",
 		name: "开发",
