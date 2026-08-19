@@ -57,7 +57,7 @@ export const booknavConfig: BooknavGroup[] = [
 	{
 		id: "fun",
 		name: "Fun",
-		icon: "material-symbols:code-rounded",
+		icon: "material-symbols:gamepad-outline-rounded",
 		desc: "有趣的网站",
 		weight: 100,
 		items: [
@@ -71,19 +71,44 @@ export const booknavConfig: BooknavGroup[] = [
 				weight: 10,
 			},
 			{
+				title: "The Restart Page",
+				url: "https://therestartpage.com",
+				desc: "模拟旧操作系统重启界面",
+				icon: "mdi:restart",
+				weight: 10,
+			},
+			{
+				title: "世界最高的网页",
+				url: "https://worlds-highest-website.com/",
+				desc: "使用CSS实现",
+				icon: "material-symbols:height",
+				weight: 10,
+			},
+			{
+				title: "Unix History",
+				url: "https://levenez.com/unix/",
+				desc: "Unix发展历史时间线",
+				icon: "mdi:linux",
+				weight: 10,
+			},
+			{
 				title: "Winworld",
 				url: "https://winworldpc.com",
 				desc: "提供旧版操作系统和软件等资源",
-				// icon 字段可以使用 astro-icon 图标库的图标名称
-				// 也可以使用图片 URL 和本地图片路径
-				// 不填则会通过接口自动获取目标站点的 favicon 图标（需要在上面配置）
 				icon: "mdi:computer",
 				weight: 10,
 			},
 			{
 				title: "User Inyerface",
 				url: "https://winworldpc.com",
-				desc: "提供旧版操作系统和软件等资源",
+				desc: "糟糕的UI设计实例",
+				weight: 10,
+			},	
+			{
+				title: "Lexy's Labyrinth",
+				url: "https://winworldpc.com",
+				desc: "推箱子解谜游戏",
+				icon: "mdi:map",
 				weight: 10,
 			},	
 		],
