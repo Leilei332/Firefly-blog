@@ -5,7 +5,6 @@ category: Unicode探索
 tags: 
 - 语言
 - Unicode
-slug: arabic-special-symbols-1
 ---
 
 
@@ -68,11 +67,11 @@ slug: arabic-special-symbols-1
 * `ARABIC LIGATURE SALLALLAHOU ALAYHE WASALLAM`
 * `ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM`
 
-两个阿拉伯文尊称符号。第一个字符是阿拉伯语合字，将其进行NFKC分解得到：
+两个阿拉伯文尊称符号。第一个字符是阿拉伯语连字，将其进行NFKC分解得到：
 
 > صلى الله عليه وسلم
 
-这是一句清真言，意思为“愿真主赐福他并使他平安”。第二个字符则是这个清真言的缩写，作为附加符号附加在人名上。
+这是一句清真言，意思为“愿真主赐福他并使他平安”。第二个字符则是这个清真言的缩写，作为附加符号附加在人名上，通常是先知穆罕默德的名字。
 
 ## ﵇﵈﵉﵍ ◌ؑ
 名称：
@@ -83,10 +82,47 @@ slug: arabic-special-symbols-1
 * `ARABIC LIGATURE ALAYHAA AS-SALAAM`
 * `ARABIC SIGN ALAYHE ASSALLAM`
 
+前四个连字分别代表的文字是：
+
+* عليه السلام
+* عليهم السلام
+* عليهما السلام
+* عليها السلام
+
+这四句话都是清真言，意思都是“愿主赐其平安”，但人称不同。这四句话的适用对象分别是单个男性，多个人，两个人，单个女性。
+
+最后一个尊称附加符号是这句清真言的缩写，通常附加在其他先知或天使的名字上。
+  
+
 ## ﵀﵏﯉ ◌ؒ
 名称：
 
+* `ARABIC LIGATURE RAHIMAHU ALLAAH`
+* `ARABIC LIGATURE RAHIMAHUM ALLAAH`
+* `ARABIC LIGATURE RAHIMAHUMAA ALLAAH`
+* `ARABIC SIGN RAHMATULLAH ALAYHE`
+
+前三个连字所代表的文字分别是：
+
+*  رحمه الله
+* رحمهم الله
+* رحمهما الله
+
+它们的意思都是“愿真主怜悯他”，但对象分别为单数男性，多个男性，两个男性。
+
+最后一个尊称附加符号是这句清真言的缩写，通常附加在殉道者或圣人的名字后面。
+
 ## ﵁﵂﵃﵄﵅ ◌ؓ
+名称：
+
+* `ARABIC LIGATURE RADI ALLAAHU ANH`
+* `ARABIC LIGATURE RADI ALLAAHU ANHAA`
+* `ARABIC LIGATURE RADI ALLAAHU ANHUM`
+* `ARABIC LIGATURE RADI ALLAAHU ANHUMAA`
+* `ARABIC LIGATURE RADI ALLAAHU ANHUNNA`
+* `ARABIC SIGN RADI ALLAHOU ANHU`
+
+最后一个尊称附加符号是这句清真言的缩写，通常附加在圣门弟子的名字后面。
 
 ## ٮ ٯ
 

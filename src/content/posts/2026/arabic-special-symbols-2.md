@@ -1,10 +1,9 @@
 ---
-title: 特殊的阿拉伯文Unicode符号一览（上）
+title: 特殊的阿拉伯文Unicode符号一览（2）
 published: 2026-08-18
 draft: true
 tags: 
 - 语言
-slug: arabic-special-symbols-2
 ---
 
 <!-- TODO: -->
