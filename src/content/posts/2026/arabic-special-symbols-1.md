@@ -1,6 +1,6 @@
 ---
 title: 特殊的阿拉伯文Unicode符号一览（1）
-published: 2026-08-17
+published: 2026-08-21
 category: Unicode探索
 tags: 
 - 语言
@@ -22,12 +22,12 @@ tags:
 ## ؀
 名称：`ARABIC NUMBER SIGN`
 
-控制字符，属于“下方标记”子区块。在阿拉伯文早期编码中作为数字起始标记使用。现已弃用。当字符书写方向为右至左时就会以特殊方式渲染。如：ا ؀۱۲۳۴
+控制字符，属于“下方标记”子区块。在阿拉伯文早期编码中作为数字起始标记使用。现已弃用。当字符书写方向为右至左时就会以特殊方式渲染。如：؀۱۲۳۴
 
 ## ؁
 名称：`ARABIC SIGN SAHAH`
 
-下方标记，标记年份开始。与前面的字符同样有特殊渲染方式：ا ؁۱۲۳۴
+下方标记，标记年份开始。与前面的字符同样有特殊渲染方式：؁۱۲۳۴
 
 ## ؃
 名称：`ARABIC SIGN SAFHA`
@@ -155,6 +155,11 @@ tags:
 
 最后一个尊称附加符号是这句清真言的缩写，通常附加在圣门弟子的名字后面。
 
+## ◌ؔ
+名称：`ARABIC SIGN TAKHALLUS`
+
+附加在诗人名字上的符号，表示这个名字为笔名。
+
 ## ALM (U+061C)
 名称：`ARABIC LETTER MARK`
 
@@ -265,7 +270,7 @@ tags:
 * `ARABIC SMALL HIGH JEEM`
 * `ARABIC SMALL HIGH THREE DOTS`
 
-古兰经中与朗读停顿有关的符号，含义见表格：
+古兰经中与朗读停顿有关的符号，含义见表格：[^4]
 
 | 符号 | 含义 |
 | ---- | ---- |
@@ -287,9 +292,10 @@ tags:
 古兰经注释符号，用来指示经文的特定位置，当读者读到此处时需要执行“叩头”（Sajdah）的穆斯林礼仪。
 
 
-
 [^1]: https://en.wikipedia.org/wiki/Kashida
 
 [^2]: https://en.wiktionary.org/wiki/%D8%8F
 
 [^3]: 在新版Noto Sans Arabic中，这个字符的独立式外观变得与`HEH DOACHASHMEE`相同。
+
+[^4]: http://yy11.ybsj.com/msl/nianci/df008.html
