@@ -1,0 +1,93 @@
+---
+title: 特殊的阿拉伯文Unicode符号一览（2）
+published: 2026-08-18
+draft: true
+tags: 
+- 语言
+---
+
+<!-- TODO: -->
+
+fa:﴾﴿
+
+## 1
+
+## ࢻ、ࢼ、ࢽ和ࣄ
+名称：
+
+* `ARABIC LETTER AFRICAN FEH`
+* `ARABIC LETTER AFRICAN QAF`
+* `ARABIC LETTER AFRICAN NOON`
+* `ARABIC LETTER AFRICAN QAF WITH THREE DOTS ABOVE`
+
+| 名称 | 独立式 | 后连式 | 前后连式 | 前连式 |
+|-|-|-|-|-|
+| FEH | ࢻ | ࢻـ | ـࢻـ | ـࢻ |
+| QAF | ࢼ | ࢼـ | ـࢼـ | ـࢼ |
+| NOON | ࢽ | ࢽـ | ـࢽـ | ـࢽ |
+| QAF WITH THREE DOTS ABOVE | ࣄ | ࣄـ | ـࣄـ | ـࣄ |
+
+## 𐻑𐻒𐻓
+名称：
+* `ARABIC LIGATURE ALAYHAA AS-SALAATU
+WAS-SALAAM`
+* `ARABIC LIGATURE ALAYHIM AS-SALAATU
+WAS-SALAAM`
+* `ARABIC LIGATURE ALAYHIMAA AS-SALAATU
+WAS-SALAAM`
+
+TODO: 𐻔 𐻕𐻖𐻗 𐻘
+
+## ﯃
+名称：`ARABIC LIGATURE JALLA WA-ALAA`
+
+TODO: ﯅﯆﯇
+
+## ﶐﶑
+TODO: 名称
+
+## ﷼
+* 位置：`U+FDFC`
+* 名称：`RIAL SIGN`
+
+将其拆开得到ریال。里亚尔，沙特阿拉伯等国所使用的货币符号。
+
+## ﷻ
+
+* 位置：`U+FDFB`
+* 名称：`ARABIC LIGATURE JALLAJALALOUHOU`
+
+阿拉伯语合字，拆开后得到：
+
+> جل جلاله
+
+意思为“愿祂的尊荣崇高”。
+
+## ﷲ
+* 位置：`U+FDF2`
+* 名称：`ARABIC LIGATURE ALLAH ISOLATED FORM`
+
+阿拉伯文الله的合字，指真主安拉。
+
+## ﷴ
+* 位置：`U+FDF4`
+* 名称：`ARABIC LIGATURE MOHAMMAD ISOLATED FORM`
+
+阿拉伯文محمد的合字，也就是穆罕默德。
+
+## ﷽
+
+信息
+: 名称：`ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM`
+: 位置：`U+FDFD`
+
+~~这个字符是唯一无法用NFKC拆开的阿拉伯文合字~~，内容为：
+
+> بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+
+意思为“奉至仁至慈的真主之名”。这个宗教短语还有一个名称叫*太斯米*。[^1]
+
+## ﷾
+名称：`ARABIC LIGATURE SUBHAANAHU WATAAALAA`
+
+[^1]: <https://www.qiuwenbaike.cn/wiki/%E5%A4%AA%E6%96%AF%E7%B1%B3>
