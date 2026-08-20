@@ -39,6 +39,11 @@ tags:
 
 日期下方标记的一个变体，外观来源于其名称Samvat（سموت），在乌尔都语中使用。
 
+## ؅
+名称：`ARABIC NUMBER MARK ABOVE`
+
+上方标记，为数字标记的一个变体，用于标记阿拉伯文中的科普特数字。
+
 ## ؈
 名称：`ARABIC RAY`
 
@@ -150,6 +155,27 @@ tags:
 
 最后一个尊称附加符号是这句清真言的缩写，通常附加在圣门弟子的名字后面。
 
+## ALM (U+061C)
+名称：`ARABIC LETTER MARK`
+
+:::note
+由于这是一个不可见字符，因此标题改为其简写和码位。
+:::
+
+这是一个用于书写方向左右相反的文本混排的字符，功能与U+200F（`RIGHT-TO-LEFT MARK`）类似。
+
+从这个字符的`scx`属性可以看出这个字符同样可以被叙利亚文和塔纳文使用。
+
+## ؝
+名称：`ARABIC END OF TEXT MARK`
+
+一个特殊的句号，作为文本或手稿的结束标记使用。加入时间较晚，是在2021年的Unicode 14.0。
+
+## ؞
+名称：`ARABIC TRIPLE DOT PUNCTUATION MARK`
+
+非洲曾使用阿拉伯字母的语言的句号，如豪萨语、沃洛夫语等。
+
 ## ک
 名称：`ARABIC LETTER KEHEH`
 
@@ -179,7 +205,7 @@ tags:
 
 > These characters were encoded for Kazakh digraphs, but their compatibility decompsitions do not reflect the preferred order of representation.
 
-字符的介绍中也有“preferred spelling is...”的说明，因此这些字符的兼容分解形式是错的，Unicode官方因此推荐使用两字符的形式（也就是اٴ（ARABIC LETTER HIGH HAMZA`）加上元音字母的形式）。
+字符的介绍中也有“preferred spelling is...”的说明，因此这些字符的兼容分解形式是错的，Unicode官方因此推荐使用两字符的形式（也就是ٴ（`ARABIC LETTER HIGH HAMZA`）加上元音字母的形式）。
 
 ## ی
 名称：`ARABIC LETTER FARSI YEH`
@@ -260,22 +286,7 @@ tags:
 
 古兰经注释符号，用来指示经文的特定位置，当读者读到此处时需要执行“叩头”（Sajdah）的穆斯林礼仪。
 
-## 1
 
-## ࢻ、ࢼ、ࢽ和ࣄ
-名称：
-
-* `ARABIC LETTER AFRICAN FEH`
-* `ARABIC LETTER AFRICAN QAF`
-* `ARABIC LETTER AFRICAN NOON`
-* `ARABIC LETTER AFRICAN QAF WITH THREE DOTS ABOVE`
-
-| 名称 | 独立式 | 后连式 | 前后连式 | 前连式 |
-|-|-|-|-|-|
-| FEH | ࢻ | ࢻـ | ـࢻـ | ـࢻ |
-| QAF | ࢼ | ࢼـ | ـࢼـ | ـࢼ |
-| NOON | ࢽ | ࢽـ | ـࢽـ | ـࢽ |
-| QAF WITH THREE DOTS ABOVE | ࣄ | ࣄـ | ـࣄـ | ـࣄ |
 
 [^1]: https://en.wikipedia.org/wiki/Kashida
 

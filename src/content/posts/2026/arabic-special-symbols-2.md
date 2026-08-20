@@ -10,6 +10,23 @@ tags:
 
 fa:﴾﴿
 
+## 1
+
+## ࢻ、ࢼ、ࢽ和ࣄ
+名称：
+
+* `ARABIC LETTER AFRICAN FEH`
+* `ARABIC LETTER AFRICAN QAF`
+* `ARABIC LETTER AFRICAN NOON`
+* `ARABIC LETTER AFRICAN QAF WITH THREE DOTS ABOVE`
+
+| 名称 | 独立式 | 后连式 | 前后连式 | 前连式 |
+|-|-|-|-|-|
+| FEH | ࢻ | ࢻـ | ـࢻـ | ـࢻ |
+| QAF | ࢼ | ࢼـ | ـࢼـ | ـࢼ |
+| NOON | ࢽ | ࢽـ | ـࢽـ | ـࢽ |
+| QAF WITH THREE DOTS ABOVE | ࣄ | ࣄـ | ـࣄـ | ـࣄ |
+
 ## 𐻑𐻒𐻓
 名称：
 * `ARABIC LIGATURE ALAYHAA AS-SALAATU
