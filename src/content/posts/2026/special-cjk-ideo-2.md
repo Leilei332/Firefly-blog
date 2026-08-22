@@ -113,7 +113,7 @@ tags:
 ## 𰒥
 甲骨文隶定字，信息未知，来源于高嶋谦一的《殷虚文字丙编通检》。
 
-<!--燛臩𤕰𦣩𨛜𨞠𨞰𨳈𠄷 -->
+<!--燛臩𤕰𦣩𨞠𨞰𨳈 -->
 
 [^1]: https://dict.variants.moe.edu.tw/dictView.jsp?ID=10685
 
@@ -128,3 +128,5 @@ tags:
 [^6]: https://hc.jsecs.org/irg/ws2017/app/?id=02748
 
 [^7]: https://hc.jsecs.org/irg/ws2021/app/?id=00411
+
+[^8]: https://zhuanlan.zhihu.com/p/59625654
