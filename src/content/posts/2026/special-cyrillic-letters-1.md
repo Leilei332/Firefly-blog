@@ -1,0 +1,89 @@
+---
+title: 特殊的西里尔文Unicode字符一览（1）
+published: 2026-08-14
+category: Unicode探索
+tags: 
+- Unicode
+- 语言
+---
+
+## Ђђ
+名称：
+
+* `CYRILLIC CAPITAL LETTER DJE`
+* `CYRILLIC SMALL LETTER DJE`
+
+## Єє
+名称：
+
+* `CYRILLIC CAPITAL LETTER UKRAINIAN IE`
+* `CYRILLIC SMALL LETTER UKRAINIAN IE`
+
+## ЅѕꙄꙅꙂꙃ
+名称：
+
+* `CYRILLIC CAPITAL LETTER DZE`
+* `CYRILLIC SMALL LETTER DZE`
+* `CYRILLIC CAPITAL LETTER REVERSED DZE`
+* `CYRILLIC SMALL LETTER REVERSED DZE`
+* `CYRILLIC CAPITAL LETTER DZELO`
+* `CYRILLIC SMALL LETTER DZELO`
+
+**注意这不是拉丁字母Ss**。其外观与拉丁字母Jj无关，来源于Ⰷⰷ这个格拉哥里字母。这个字母用于马其顿语中表示/ʣ/音。
+
+## Јј
+名称：
+
+* `CYRILLIC CAPITAL LETTER JE`
+* `CYRILLIC SMALL LETTER JE`
+
+**注意这不是拉丁字母Jj，虽然其外观确实起源于Jj**。这个
+
+## Іі
+名称：
+
+* `CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I`
+* `CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I`
+
+**注意这不是拉丁字母Ii**。其外观实际上来源于希腊字母Ιι。根据其名称可以得知这个字母在乌克兰语和白俄罗斯语中使用，但实际上在1918年布尔什维克文字改革前在俄语中也使用。
+
+## ъ
+名称：`CYRILLIC SMALL LETTER HARD SIGN`
+
+## ѠѡѺѻ
+名称：
+
+* `CYRILLIC CAPITAL LETTER OMEGA`
+* `CYRILLIC SMALL LETTER OMEGA`
+* `CYRILLIC CAPITAL LETTER ROUND OMEGA`
+* `CYRILLIC SMALL LETTER ROUND OMEGA` 
+
+## Ѣѣ
+名称：
+
+* `CYRILLIC CAPITAL LETTER YAT`
+* `CYRILLIC SMALL LETTER YAT`
+
+## Ѥѥ
+
+## ѦѧѪѫ
+
+## Ѯѯ
+名称：
+
+* `CYRILLIC CAPITAL LETTER KSI`
+* `CYRILLIC SMALL LETTER KSI`
+
+## Ѱѱ
+
+## Ѳѳ
+
+## Ѵѵ
+
+## Ѽѽ
+
+## Ѹѹ
+
+## Ѿѿ
+
+## Ҁҁ
