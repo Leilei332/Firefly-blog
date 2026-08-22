@@ -39,16 +39,21 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"assets/images/DesktopWallpaper/d1.avif",
-			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
+			"assets/images/DesktopWallpaper/md1.avif",
+			"assets/images/DesktopWallpaper/md2.avif",
+			"assets/images/DesktopWallpaper/md3.avif",
+			"assets/images/DesktopWallpaper/md4.avif",
+			"assets/images/DesktopWallpaper/md5.avif",
+			"assets/images/DesktopWallpaper/md6.avif",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
+			"assets/images/MobileWallpaper/mm1.avif",
+			"assets/images/MobileWallpaper/mm2.avif",
+			"assets/images/MobileWallpaper/mm3.avif",
+			"assets/images/MobileWallpaper/mm4.avif",
+			"assets/images/MobileWallpaper/mm5.avif",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组，参考上面壁纸配置）
@@ -105,9 +110,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		waves: {
 			enable: {
 				// 桌面端是否启用水波纹动画效果
-				desktop: true,
+				desktop: false,
 				// 移动端是否启用水波纹动画效果
-				mobile: true,
+				mobile: false,
 			},
 		},
 		// 渐变过渡效果配置，当水波纹关闭时自动启用，提供壁纸底部到背景色的平滑过渡
