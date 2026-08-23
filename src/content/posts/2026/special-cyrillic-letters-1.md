@@ -49,7 +49,7 @@ tags:
 * `CYRILLIC CAPITAL LETTER JE`
 * `CYRILLIC SMALL LETTER JE`
 
-**注意这不是拉丁字母Jj，虽然其外观确实起源于Jj**。这个
+**注意这不是拉丁字母Jj，虽然其外观确实起源于Jj**。这个字母用于塞尔维亚语，表示发音/j/，由塞尔维亚语言学家Vuk Stefanlvić Karadžić在1818年的塞尔维亚字典中正式引入，用来代替其他斯拉夫语中使用的传统字母字母Йй。这个举动在当时还引发了争议，东正教神职人员曾指责这是一种向拉丁字母和奥地利天主教会屈服的举动。
 
 ## Љљ
 名称：
@@ -69,13 +69,7 @@ tags:
 * `CYRILLIC CAPITAL LETTER HARD SIGN`
 * `CYRILLIC SMALL LETTER HARD SIGN`
 
-这个字符来源于格拉哥里字母Ⱏⱏ。和名称一样，这个字符在俄语等大多数语言中作隔音作用，不发音。不过在保加利亚语中这个字母发/ɤ/或/ɐ/音
-
-## Ьь
-名称：
-
-* `CYRILLIC CAPITAL LETTER SOFT SIGN`
-* `CYRILLIC SMALL LETTER SOFT SIGN`
+这个字符来源于格拉哥里字母Ⱏⱏ。和名称一样，这个字符在俄语等大多数语言中作隔音作用，不发音。不过在保加利亚语中这个字母发/ɤ/或/ɐ/音。
 
 ## ЫыꙐꙑ
 名称：
@@ -101,13 +95,15 @@ tags:
 * `CYRILLIC CAPITAL LETTER ROUND OMEGA`
 * `CYRILLIC SMALL LETTER ROUND OMEGA` 
 
-西里尔字母Оо的一个位置变体，用于词首，现在仅在教会斯拉夫语中使用。
+西里尔字母Оо的一个位置变体，表示处在词首的О，现在仅在教会斯拉夫语中使用。
 
 ## Ѣѣ
 名称：
 
 * `CYRILLIC CAPITAL LETTER YAT`
 * `CYRILLIC SMALL LETTER YAT`
+
+
 
 ## Ѥѥ
 
