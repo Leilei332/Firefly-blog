@@ -1,6 +1,8 @@
 ---
 title: TNO意识形态配图考据—法西斯主义篇
 published: 2026-07-06
+updated: 2026-08-30
+image: "../_images/march-on-rome-october-1922-benito-mussolini-and-fascist-blackshirts-during-the-march-private-collection-2J4WNXB.jpg"
 tags: 
 - 历史
 slug: tno-ideology-picture-source-fascism
@@ -123,6 +125,21 @@ Wikimedia Commons上的原图：[File:Bundesarchiv Bild 102-17964, Ordensburg Kr
 这是1942年德国占领下的比利时的一张政治宣传画，用于招募比利时法语区的工人为德国工作。上部分为挥舞锤子的工人和挥舞手榴弹的德国士兵，下部分为一个丑化过的犹太人，同时衣服上包含英国国旗、美国国旗和共产主义标志，体现出其反共主义、反犹主义思想。标语为Avec l'ouvrier soldat pour le socialisme，意为“与工人战士一起为社会主义”。
 
 原图可以在Wikimedia Commons上找到：[Avec l'ouvrier soldat pour le socialisme.jpg](https://commons.wikimedia.org/wiki/File:Avec_l%27ouvrier_soldat_pour_le_socialisme.jpg)
+
+
+## 秩序社会主义
+
+![](https://static.wikitide.net/tnowiki/a/ad/Fascism_ordosocialism.png)
+
+> 1847年，卡尔·马克思撼动了整个世界的内核，他创造了一种胜过旧秩序的意识形态，明确了普通人所真正要为之奋斗的事物。现在，马克思真正的继承者终于到来了：伊万·谢罗夫，秩序社会主义的创始人，他相信人对祖国的热爱与国家的阶级斗争并不存在矛盾。既然德国人的意识形态的确存在可取之处，可以为革命所用，那又为什么非得妖魔化他们呢？秩序社会主义正是解决这些互相矛盾的问题和理念的方案。
+> 
+> 秩序社会主义融合了阶级斗争和民族斗争，团结了一切反对资本主义和世界主义的力量，以彻底摧毁反动派为宗旨，并相信这些群体的反动倾向在很大程度上是……遗传获得的。
+> 
+> 某些无知的蠢材指责秩序社会主义的本质是反动法团主义，彻头彻尾地背叛了马克思主义；还有些蠢货谴责谢罗夫是个狂人，和希特勒是一丘之貉。这些人妄图用污言秽语破坏革命，维护那些天生反对革命的遗传反动派。谢罗夫和他的支持者不会为这些无中生有的谣言困扰，因为他们还要发起一场新的革命，这一次，他们要摒弃所有腐化先前革命的弊端。
+
+感谢[找图吧吧主的寻找](https://tieba.baidu.com/p/10960517817#/)，原图是苏联彼尔姆36号古拉格的照片。Wikimedia Commons上可以[找到类似的照片](https://commons.wikimedia.org/wiki/File:Perm-36-10.JPG)：
+
+![Perm-36-10.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Perm-36-10.JPG/500px-Perm-36-10.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 
 ## 革命锡安主义
 
