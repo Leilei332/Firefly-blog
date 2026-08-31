@@ -11,6 +11,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lebedike_klang
 
 多邻国提供的意第绪语课程比较多，甚至多于土耳其语。但是在我在网上查阅关于意第绪语的信息时，却发现网上的意第绪语字母表的一个字母和多邻国里面的对不上，这个字母就是פ（Fey）：在多邻国中这个字母写法是פ，但是网上资料中这个字母写法是פֿ，上面多了一个◌ֿ（`HEBREW POINT RAFE`），这个字符也在Unicode中被单独作为连字编码了：פֿ（`HEBREW LETTER PE WITH RAFE`）。
 
+![多邻国意第绪语字母表中出现的פ](../_images/Screenshot_20260831_162450_com_duolingo_LaunchActivity_edit_286352147816960.jpg)
+
 ![Omniglot上的意第绪语字母表](https://www.omniglot.com/images/writing/yiddish1.gif)
 
 网上几乎所有的意第绪语字母表都使用פֿ这个字母，于是我又在Wikimedia Commons上查找了一些意第绪语的图片，然后发现了这本书上的字母表：
@@ -52,8 +54,13 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lebedike_klang
 
 * * *
 
-这个文章的起因其实只是多邻国对于意第绪语的YIVO正字法适配不到位的问题，但这反而揭开了一个语言的兔子洞。本文内容涉及的意第绪语写法也只是其中的冰山一角，没有谈到古意第绪语和哈瑞迪犹太人的写法。
+这个文章的起因其实只是多邻国对于意第绪语的YIVO正字法适配不到位的问题，但这反而揭开了一个语言的兔子洞。本文内容涉及的意第绪语写法也只是其中的冰山一角，没有谈到古意第绪语和哈西德犹太人的写法。
 
 可惜网上关于意第绪语的资料实在太少，连关于YIVO正字法的具体信息都只有间接的资料，因此大多数总结的信息都是通过观察Wikimedia Commons的文件得出来的。
+
+## 参考资料
+
+* [Yiddish orthography](https://en.wikipedia.org/wiki/?title=Yiddish_orthography&oldid=1339816377)
+* [Yiddish writing system](https://homepage.univie.ac.at/kriszta.eszter.szendroei/assets/files/YWS-REVISIONFINAL.pdf)
 
 [^1]: 实际上书中包含对于字母אָ的介绍，但没有对于字母אַ的介绍。字母אַ在书中大多数情况下均被א代替。
