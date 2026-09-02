@@ -1,3 +1,4 @@
+import { getHeapStatistics } from "node:v8";
 import type { SidebarLayoutConfig } from "../types/sidebarConfig";
 
 /**
@@ -98,37 +99,6 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 				collapseThreshold: 10,
 			},
 		},
-	],
-
-	// 右侧边栏组件配置列表
-	rightComponents: [
-		{
-			// 组件类型：最新动态组件
-			type: "dynamic",
-			// 是否启用该组件
-			enable: true,
-			// 组件位置
-			position: "top",
-			// 是否在文章详情页显示
-			showOnPostPage: true,
-			// 组件专属配置
-			specificConfig: {
-				dynamic: {
-					// 显示的最新动态数量
-					limit: 2,
-				},
-			},
-		},
-		{
-			// 组件类型：站点统计组件
-			type: "stats",
-			// 是否启用该组件
-			enable: true,
-			// 组件位置
-			position: "top",
-			// 是否在文章详情页显示
-			showOnPostPage: false,
-		},
 		{
 			// 组件类型：站点信息组件
 			type: "siteInfo",
@@ -164,6 +134,37 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 					showHeatmap: true,
 				},
 			},
+		},
+	],
+
+	// 右侧边栏组件配置列表
+	rightComponents: [
+		{
+			// 组件类型：最新动态组件
+			type: "dynamic",
+			// 是否启用该组件
+			enable: true,
+			// 组件位置
+			position: "top",
+			// 是否在文章详情页显示
+			showOnPostPage: true,
+			// 组件专属配置
+			specificConfig: {
+				dynamic: {
+					// 显示的最新动态数量
+					limit: 2,
+				},
+			},
+		},
+		{
+			// 组件类型：站点统计组件
+			type: "stats",
+			// 是否启用该组件
+			enable: true,
+			// 组件位置
+			position: "top",
+			// 是否在文章详情页显示
+			showOnPostPage: false,
 		},
 		{
 			// 组件类型：侧边栏目录组件（只在文章详情页显示）
