@@ -1,0 +1,91 @@
+---
+title: 特殊的拉丁文Unicode字符一览（2）
+published: 2026-09-20
+category: Unicode探索
+tags: 
+- Unicode
+- 语言
+---
+
+前篇：[特殊的拉丁文Unicode字符一览（1）](../special-latin-letters-1/)
+
+## Ŀŀ
+名称：
+
+* `LATIN CAPITAL LETTER L WITH MIDDLE DOT`
+* `LATIN SMALL LETTER L WITH MIDDLE DOT`
+
+
+
+## ŉ
+名称：`LATIN SMALL LETTER N PRECEDED BY APOSTROPHE`
+
+旧名称：`LATIN SMALL LETTER APOSTROPHE N`
+
+## Ǳǲǳ
+名称：
+
+* `LATIN CAPITAL LETTER DZ`
+* `LATIN CAPITAL LETTER D WITH SMALL LETTER Z`
+* `LATIN SMALL LETTER DZ`
+
+## Ʋʋ
+名称：
+
+* `LATIN CAPITAL LETTER V WITH HOOK`
+* `LATIN SMALL LETTER V WITH HOOK`
+
+## Ʌʌ
+名称：
+
+* `LATIN CAPITAL LETTER TURNED V`
+* `LATIN SMALL LETTER TURNED V`
+
+## Ɐɐ
+名称：
+
+* `LATIN CAPITAL LETTER TURNED A`
+* `LATIN SMALL LETTER TURNED A`
+
+## ⱭɑⱰɒ
+名称：
+
+* `LATIN CAPITAL LETTER ALPHA`
+* `LATIN SMALL LETTER ALPHA`
+* `LATIN CAPITAL LETTER TURNED ALPHA`
+* `LATIN SMALL LETTER TURNED ALPHA`
+
+## Ɔɔ
+名称：
+
+* `LATIN CAPITAL LETTER OPEN O`
+* `LATIN SMALL LETTER OPEN O`
+
+## ɘ
+名称：`LATIN SMALL LETTER REVERSED E`
+
+## Ɡɡ
+名称：
+
+* `LATIN CAPITAL LETTER SCRIPT G`
+* `LATIN SMALL LETTER SCRIPT G`
+
+## Ɣɣ
+
+## Ɥɥ
+
+## ɸ
+
+## Ʇʇ
+
+## ʍ
+
+## ʎ
+
+## ʖ
+
+## ʗ
+
+## ʘ
+
+## Ʞʞ
