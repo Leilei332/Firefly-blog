@@ -118,7 +118,23 @@ tags:
 * `CYRILLIC CAPITAL LETTER IOTIFIED E`
 * `CYRILLIC SMALL LETTER IOTIFIED E`
 
-这个字符是西里尔字母І和Е组合而成的连字，是早期西里尔字母的一个重要字母，代表发音/je/或/jɛ/，在东斯拉夫和南斯拉夫地区也有使用
+这个字符是西里尔字母І和Е组合而成的连字，是早期西里尔字母的一个重要字母，代表发音/je/或/jɛ/，在东斯拉夫和南斯拉夫地区也有使用。
+
+## Ѧѧ
+名称：
+
+* `CYRILLIC CAPITAL LETTER LITTLE YUS`
+* `CYRILLIC SMALL LETTER LITTLE YUS`
+
+早期西里尔字母，起源于格拉哥里字母Ⱔⱔ，表示前鼻化元音/ɛ̃/。随着语言的发展，斯拉夫语族中的鼻化元音的鼻音脱落，演变成为/a/音，使其逐渐被Яя取代。
+
+## Ѫѫ
+名称：
+
+* `CYRILLIC CAPITAL LETTER BIG YUS`
+* `CYRILLIC SMALL LETTER BIG YUS`
+
+早期西里尔字母，起源于格拉哥里字母Ⱘⱘ，表示后鼻化元音。随着语言的发展，斯拉夫语族中鼻化元音的鼻音脱落，因此在不同语言中被其他字母取代。
 
 ## Ѩѩ
 名称：
@@ -126,14 +142,7 @@ tags:
 * `CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS`
 * `CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS`
 
-
-## ѦѧѪѫ
-名称：
-
-* `CYRILLIC CAPITAL LETTER LITTLE YUS`
-* `CYRILLIC SMALL LETTER LITTLE YUS`
-* `CYRILLIC CAPITAL LETTER BIG YUS`
-* `CYRILLIC SMALL LETTER BIG YUS`
+这个字母是І和Ѧ的连字，表示颚化的前鼻化元音，相对于Ѧѧ在前面多了/j/音，在斯拉夫语族鼻音脱落后，该字母被Яя取代。
 
 ## Ѯѯ
 名称：
@@ -141,11 +150,19 @@ tags:
 * `CYRILLIC CAPITAL LETTER KSI`
 * `CYRILLIC SMALL LETTER KSI`
 
+这个字母起源于希腊字母Ξξ。这个字母代表辅音簇/ks/，拼写来自希腊语的词汇。由于俄语本土词汇中极少使用此字母，在彼得大帝的公民体改革中被废除，之后通常被两个字母кс替代。
+
+在西里尔数字系统中这个字母代表60。
+
 ## Ѱѱ
 名称：
 
 * `CYRILLIC CAPITAL LETTER PSI`
 * `CYRILLIC SMALL LETTER PSI`
+
+**注意这不是希腊字母Ψψ，虽然其确实来源于这个希腊字母**。这个字母代表辅音簇/ps/，拼写来自希腊语的词汇。由于俄语本土词汇中极少使用此字母，在彼得大帝的公民体改革中被废除，之后通常被两个字母пс替代。
+
+在西里尔数字系统中这个字母代表700。
 
 ## Ѳѳ
 名称：
@@ -153,11 +170,19 @@ tags:
 * `CYRILLIC CAPITAL LETTER FITA`
 * `CYRILLIC SMALL LETTER FITA`
 
+这个字母来源于希腊字母Θθ，发音与西里尔字母Фф同为/f/，用于拼写源自希腊语的单词。在1918年俄语改革中这个字母被废除，/f/全部使用Фф书写。
+
+在西里尔数字系统中这个字母代表9。
+
 ## Ѵѵ
 名称：
 
 * `CYRILLIC CAPITAL LETTER IZHITSA`
 * `CYRILLIC SMALL LETTER IZHITSA`
+
+这个字母来源于希腊字母Υυ，代表发音/i/或/v/，用于来自希腊的外源词，在1918年俄语改革中被废除，用Ии和Вв代替。
+
+在西里尔数字系统中代表400。
 
 ## Ѽѽ
 名称：
@@ -165,17 +190,23 @@ tags:
 * `CYRILLIC CAPITAL LETTER OMEGA WITH TITLO`
 * `CYRILLIC SMALL LETTER OMEGA WITH TITLO`
 
+这个，对应希腊字母Ὦὦ
+
 ## ѸѹꙊꙋ
 名称：
 
 * `CYRILLIC CAPITAL LETTER UK`
 * `CYRILLIC SMALL LETTER UK`
+* `CYRILLIC CAPITAL LETTER MONOGRAPH UK`
+* `CYRILLIC SMALL LETTER MONOGRAPH UK`
 
 ## Ѿѿ
 名称：
 
 * `CYRILLIC CAPITAL LETTER OT`
 * `CYRILLIC SMALL LETTER OT`
+
+早期西里尔字母，由字母Ѡѡ和Тт结合而来，发音为/ɔt̪/，
 
 ## Ҁҁ
 名称：
