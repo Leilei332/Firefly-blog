@@ -1,6 +1,6 @@
 ---
 title: 特殊的拉丁文Unicode字符一览（2）
-published: 2026-09-20
+published: 2026-09-18
 category: Unicode探索
 tags: 
 - Unicode
@@ -8,15 +8,6 @@ tags:
 ---
 
 前篇：[特殊的拉丁文Unicode字符一览（1）](../special-latin-letters-1/)
-
-拉丁文包含13个区块：
-* [基本拉丁文（ASCII）](https://unicode.org/charts/PDF/U0000.pdf)
-* [Latin-1补充](https://unicode.org/charts/PDF/U0080.pdf)
-* 拓展[A](https://unicode.org/charts/PDF/U0100.pdf)、[B](https://unicode.org/charts/PDF/U0180.pdf)、[C](https://unicode.org/charts/PDF/U2C60.pdf)、[D](https://unicode.org/charts/PDF/UA720.pdf)、[E](https://unicode.org/charts/PDF/UAB30.pdf)、[F](https://unicode.org/charts/PDF/U10780.pdf)、[G](https://unicode.org/charts/PDF/U1DF00.pdf)
-* [附加拓展](https://unicode.org/charts/PDF/U1E00.pdf)
-* [IPA拓展](https://unicode.org/charts/PDF/U0250.pdf)
-* [音标拓展](https://unicode.org/charts/PDF/U1D00.pdf)
-* [音标拓展补充](https://unicode.org/charts/PDF/U1D80.pdf)
 
 ## Ŀŀ
 名称：
@@ -43,6 +34,8 @@ ISO 6937遗留的兼容字符，在南非荷兰语中使用，目前已废弃。
 * `LATIN CAPITAL LETTER DZ`
 * `LATIN CAPITAL LETTER D WITH SMALL LETTER Z`
 * `LATIN SMALL LETTER DZ`
+
+这三个字符都代表二合字母DZ，这个二合字母在匈牙利语、拉脱维亚语、立陶宛语、波兰语、斯洛伐克语合马其顿语中都有。
 
 ## Ʋʋ
 名称：
@@ -75,20 +68,25 @@ ISO 6937遗留的兼容字符，在南非荷兰语中使用，目前已废弃。
 
 这个字母是翻转的Aa字母，曾在18世纪被Edward Lhuyd和William Pryce用于康沃尔语的音标。其小写形式在国际音标中表示近开央元音。
 
-## ⱭɑⱰɒ
+## ⱭɑⱰɒᵅ
 名称：
 
 * `LATIN CAPITAL LETTER ALPHA`
 * `LATIN SMALL LETTER ALPHA`
 * `LATIN CAPITAL LETTER TURNED ALPHA`
 * `LATIN SMALL LETTER TURNED ALPHA`
+* `MODIFIER LETTER SMALL ALPHA`
 
 旧名称：
 
 * `LATIN SMALL LETTER SCRIPT A`
 * `LATIN SMALL LETTER TURNED SCRIPT A`
 
-虽然名称
+Ɑɑ这个字母来源于拉丁字母a的手写体形式，其大写形式是小写形式的放大版，用于非洲语言，同时其小写形式在国际音标中表示开后不圆唇元音。
+
+Ɒɒ是Ɑɑ的翻转版本，用于美洲语言学，其小写形式在国际音标中表示开后圆唇元音。
+
+ᵅ则用于乌拉尔音标，表示/ɐ/音。
 
 ## Ɔɔ
 名称：
@@ -96,11 +94,17 @@ ISO 6937遗留的兼容字符，在南非荷兰语中使用，目前已废弃。
 * `LATIN CAPITAL LETTER OPEN O`
 * `LATIN SMALL LETTER OPEN O`
 
+虽然名字是“开的O”，但实际上外形是翻转的C字母。这个字符的小写，
+
 ## ɘ
 名称：`LATIN SMALL LETTER REVERSED E`
 
+左右翻转的e，在国际音标中表示半闭央不圆唇元音。
+
 ## ɢ
 名称：`LATIN LETTER SMALL CAPITAL G`
+
+缩写版的大写G，在国际音标中表示浊小舌塞音。
 
 ## Ɡɡ
 名称：
@@ -108,11 +112,15 @@ ISO 6937遗留的兼容字符，在南非荷兰语中使用，目前已废弃。
 * `LATIN CAPITAL LETTER SCRIPT G`
 * `LATIN SMALL LETTER SCRIPT G`
 
+手写体形式的g，在国际音标中表示浊软腭塞音。大写形式是小写形式的放大版本，由Michael Everson提议而编码，用于排版国际音标版本的《爱丽丝梦游仙境》。[^2]
+
 ## Ɣɣ
 名称：
 
 * `LATIN CAPITAL LETTER GAMMA`
 * `LATIN SMALL LETTER GAMMA`
+
+这个字母来源于希腊字母γ，其大写形式是小写形式的放大版本，包含在[非洲字母表]中，用于非洲的语言。其小写形式在国际音标中表示浊软腭擦音。
 
 ## Ɤɤ
 名称：
@@ -122,7 +130,7 @@ ISO 6937遗留的兼容字符，在南非荷兰语中使用，目前已废弃。
 
 旧版名称：`LATIN SMALL LETTER BABY GAMMA`
 
-这个字母的大写版本加入的时间比较晚，是在Unicode 16.0中。
+这个字母的大写版本加入的时间比较晚，是在Unicode 16.0中，名称得名于其外形像公羊角。这个字母用于非洲的西丹语的2014版本的字母表，其中用Ɤɤ代替了Öö。[^1]小写形式在国际音标中表示半闭后不圆唇元音。
 
 ## Ɥɥ
 名称：
@@ -130,22 +138,35 @@ ISO 6937遗留的兼容字符，在南非荷兰语中使用，目前已废弃。
 * `LATIN CAPITAL LETTER TURNED H`
 * `LATIN SMALL LETTER TURNED H`
 
+翻转的h，用于利比里亚的丹语的字母表，也曾被阿布哈兹语使用过（对应现西里尔字母表Чч）。其小写形式在国际音标中表示浊唇硬腭近音。
+
 ## Ɪɪ
 名称：
 
 * `LATIN CAPITAL LETTER SMALL CAPITAL I`
+* `LATIN LETTER SMALL CAPITAL I`
+
+这个字母源于I的大写版本，包含在[非洲参考字母表]中，用于非洲的语言。小写形式在国际音标中表示次闭次前不圆唇元音。
 
 ## ɴ
 名称：`LATIN LETTER SMALL CAPITAL N`
 
+小的大写N，在国际音标中表示小舌鼻音。
+
 ## ɷ
 名称：`LATIN SMALL LETTER CLOSED OMEGA`
+
+旧版国际音标，现已被[ʊ](../special-latin-letters-1/#ʊʊ)代替。
 
 ## ɸ
 名称：`LATIN SMALL LETTER PHI`
 
+来源于希腊字母φ，外形接近于ϕ（`GREEK PHI SYMBOL`），在国际音标中表示清双唇擦音。
+
 ## ɹ
 名称：`LATIN SMALL LETTER TURNED R`
+
+翻转的r，在国际音标中表示浊齿龈近音。
 
 ## Ʇʇ
 名称：
@@ -153,4 +174,12 @@ ISO 6937遗留的兼容字符，在南非荷兰语中使用，目前已废弃。
 * `LATIN CAPITAL LETTER TURNED T`
 * `LATIN SMALL LETTER TURNED T`
 
-[非洲字母表]: <https://en.wikipedia.org/wiki/Africa_Alphabet>
+翻转的Tt，用于语言转写。其小写形式曾在国际音标中表示齿吸气音，现在在大多数情况下都被[ǀ](../special-latin-letters-1/#ǀǁǂǃ)代替。
+
+[非洲字母表]: https://en.wikipedia.org/wiki/Africa_Alphabet
+
+[非洲参考字母表]: https://en.wikipedia.org/wiki/?title=African_Reference_Alphabet&oldid=1344088634
+
+[^1]: https://www.unicode.org/L2/L2021/21205-capital-rams-horn.pdf
+
+[^2]: https://www.unicode.org/mail-arch/unicode-ml/y2013-m01/0093.html
