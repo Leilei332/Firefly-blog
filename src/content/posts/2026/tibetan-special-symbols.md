@@ -4,8 +4,7 @@ published: 2026-06-21
 category: Unicode探索
 tags: 
 - Unicode
-- བོད་སྐད
-slug: tibetian-special-symbols
+- 语言
 ---
 
 
@@ -79,12 +78,12 @@ slug: tibetian-special-symbols
 
 在已编码的字符中，官方不推荐使用ཨཱི（`TIBETAN VOWEL SIGN II`），ཨཱུ（`TIBETAN VOWEL SIGN UU`），ཨཷ（`TIBETAN VOWEL SIGN VOCALIC RR`），ཨཹ（`TIBETAN VOWEL SIGN VOCALIC LL`），ཨཱྀ（`TIBETAN VOWEL SIGN REVERSED II`）
 
-## ྈ
+## ◌ྈ
 名称：`TIBETAN SIGN LCE TSA CAN`
 
 舌根音符（ལྕེ་ཙ་ཅན），置于辅音上方，表示辅音读软腭音，如ྈྐ。
 
-## ྉ
+## ◌ྉ
 唇音符（མཆུ་ཅན），表示辅音读唇音，如ྉྐ。
 
 ## ྅
@@ -106,7 +105,7 @@ slug: tibetian-special-symbols
 ## ࿅
 ## ࿃
 
-## ཨ࿆
+## ◌࿆
 
 ## ࿈
 
