@@ -53,7 +53,7 @@ tags:
 
 **注意这不是拉丁字母Ss**。其外观与拉丁字母Jj无关，来源于Ⰷⰷ这个格拉哥里字母。这个字母用于马其顿语，表示/ʣ/音。
 
-这个字母在西里尔数字中代表60
+这个字母在西里尔数字中代表60。
 
 ## Іі
 名称：
@@ -62,7 +62,6 @@ tags:
 * `CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I`
 
 **注意这不是拉丁字母Ii**。其外观实际上来源于希腊字母Ιι。根据其名称可以得知这个字母在乌克兰语和白俄罗斯语中使用，但实际上在1918年俄语文字改革前在俄语中也使用。
-
 
 ## Ъъ
 名称：
@@ -200,15 +199,20 @@ tags:
 * `CYRILLIC CAPITAL LETTER OMEGA WITH TITLO`
 * `CYRILLIC SMALL LETTER OMEGA WITH TITLO`
 
-这个字母的名字不准确，其字形通常是结合了希腊文的平滑呼吸符和锐音符的Omega字母（Ꙍꙍ），来源于希腊文Ὦὦ，用作感叹词“O!”表达强烈的感叹。[^1]
+这个字母的名字不准确，其字形通常是结合了希腊文的平滑呼吸符和锐音符的Omega字母（Ꙍꙍ），而不是titlo（◌҃）来源于希腊文Ὦὦ，用作感叹词“O!”表达强烈的感叹。[^1]
 
-## ѸѹꙊꙋ
+## ѸѹꙊꙋᲈ
 名称：
 
 * `CYRILLIC CAPITAL LETTER UK`
 * `CYRILLIC SMALL LETTER UK`
 * `CYRILLIC CAPITAL LETTER MONOGRAPH UK`
 * `CYRILLIC SMALL LETTER MONOGRAPH UK`
+* `CYRILLIC SMALL LETTER UNBLENDED UK`
+
+这些字符都代表早期西里尔字母中的Uk二合字母，由оу组成，模仿了希腊语中的ΟΥ，代表元音/u/。由于Ѹѹ这两个字符一各种问题（如无全大写形式），Unicode 5.1将这个字符弃用并推荐使用оу两个字符代替。[^4]
+
+Ꙋꙋ是这个二合字母的垂直连字形式，ᲈ则是ꙋ没有连成一笔的变体。
 
 ## Ѿѿ
 名称：
@@ -233,3 +237,5 @@ tags:
 [^2]: https://en.wikipedia.org/wiki/?title=Ot_(Cyrillic)&oldid=1335317902
 
 [^3]: https://en.wikipedia.org/wiki/?title=Izhitsa&oldid=1340505068
+
+[^4]: http://std.dkuug.dk/jtc1/sc2/wg2/docs/n3194.pdf
