@@ -7,6 +7,12 @@ tags:
 - 语言
 ---
 
+西里尔字母一共有6个区块：
+
+* [西里尔字母](https://unicode.org/Public/18.0.0/charts/PDF/U0400.pdf)
+* [西里尔字母增补](https://unicode.org/Public/18.0.0/charts/PDF/U0500.pdf)
+* 拓展[A](https://unicode.org/Public/18.0.0/charts/PDF/U2DE0.pdf)、[B](https://unicode.org/Public/18.0.0/charts/PDF/UA640.pdf)、[C](https://unicode.org/Public/18.0.0/charts/PDF/U1C80.pdf)、[D](https://unicode.org/Public/18.0.0/charts/PDF/U1E030.pdf)
+
 ## ЂђЉљЊњ
 名称：
 
@@ -51,7 +57,7 @@ tags:
 * `CYRILLIC CAPITAL LETTER DZELO`
 * `CYRILLIC SMALL LETTER DZELO`
 
-**注意这不是拉丁字母Ss**。其外观与拉丁字母Jj无关，来源于Ⰷⰷ这个格拉哥里字母。这个字母用于马其顿语，表示/ʣ/音。
+**注意这不是拉丁字母Ss**。其外观与拉丁字母Jj无关，来源于Ⰷⰷ这个格拉哥里字母。这个字母用于马其顿语，表示/d͡z/音。Ꙅꙅ和Ꙃꙃ则是这个字母的两个变体。
 
 这个字母在西里尔数字中代表60。
 
@@ -141,7 +147,7 @@ tags:
 * `CYRILLIC CAPITAL LETTER BIG YUS`
 * `CYRILLIC SMALL LETTER BIG YUS`
 
-早期西里尔字母，起源于格拉哥里字母Ⱘⱘ，表示后鼻化元音。随着语言的发展，斯拉夫语族中鼻化元音的鼻音脱落，因此在不同语言中被其他字母取代。
+早期西里尔字母，起源于格拉哥里字母Ⱘⱘ，表示后鼻化元音/ɔ̃/或/ɛ̃/。随着语言的发展，斯拉夫语族中鼻化元音的鼻音脱落，因此在不同语言中被其他字母取代。
 
 ## Ѭѭ
 名称：
@@ -199,7 +205,7 @@ tags:
 * `CYRILLIC CAPITAL LETTER OMEGA WITH TITLO`
 * `CYRILLIC SMALL LETTER OMEGA WITH TITLO`
 
-这个字母的名字不准确，其字形通常是结合了希腊文的平滑呼吸符和锐音符的Omega字母（Ꙍꙍ），而不是titlo（◌҃）来源于希腊文Ὦὦ，用作感叹词“O!”表达强烈的感叹。[^1]
+这个字母的名字不准确，其字形通常是结合了希腊文的平滑呼吸符和锐音符的Omega字母（Ꙍꙍ），而不是titlo（◌҃）。这个字母来源于希腊文的Ὦὦ，用作感叹词“O!”表达强烈的感叹。[^1]
 
 ## ѸѹꙊꙋᲈ
 名称：
@@ -220,7 +226,7 @@ tags:
 * `CYRILLIC CAPITAL LETTER OT`
 * `CYRILLIC SMALL LETTER OT`
 
-早期西里尔字母，由字母Ѡѡ和Тт结合而来，发音为/ɔt̪/，在教会斯拉夫语中仅用来数学借词отъ和前缀отъ-，不在其他地方使用。
+早期西里尔字母，由字母Ѡѡ和Тт结合而来，发音为/ɔt̪/，在教会斯拉夫语中仅用来书写借词отъ和前缀отъ-，不在其他地方使用。
 
 这个字母在西里尔数字系统中表示800，书籍中经常使用此字母代替ѡ҃。[^2]
 
