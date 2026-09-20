@@ -15,27 +15,46 @@ tags:
 ## ʎ
 名称：`LATIN SMALL LETTER TURNED Y`
 
-翻转的小写y，在国际音标
+翻转的小写y，在国际音标中代表硬腭边音。
 
 ## ʏ
 名称：`LATIN LETTER SMALL CAPITAL Y`
 
+小的大写Y，在国际音标中代表次闭前圆唇元音。
+
 ## ʗ
 名称：`LATIN LETTER STRETCHED C`
+
+旧版国际音标，在1989年后被[ǃ](../special-latin-letters-1/#ǀǁǂǃ)代替。
 
 ## ʘ
 名称：`LATIN LETTER BILABIAL CLICK`
 
 旧名称：`LATIN LETTER BULLSEYE`
 
+国际音标，代表双唇搭嘴音。
+
+## ʙ
+名称：`LATIN LETTER SMALL CAPITAL B`
+
+小的大写B，在国际音标代表浊双唇颤音。同时曾作为萨米语、科米语中B字母的小写。[^1]
+
 ## ʜ
 名称：`LATIN LETTER SMALL CAPITAL H`
+小的大写H，在国际音标中代表清会厌擦音。
 
 ## ʟ
 名称：`LATIN LETTER SMALL CAPITAL L`
 
+小的大写L，在国际音标中代表浊软腭边近音。
+
 ## Ʞʞ
-名称：`LATIN CAPITAL LETTER TURNED K`
+名称：
+
+* `LATIN CAPITAL LETTER TURNED K`
+* `LATIN SMALL LETTER TURNED K`
+
+翻转的Kk，曾用于奥马哈语的转写，小写形式在国际音标中表示软腭搭嘴音。
 
 ## ʣʤʥʦʧʨ
 名称：
@@ -47,7 +66,18 @@ tags:
 * `LATIN SMALL LETTER TESH DIGRAPH`
 * `LATIN SMALL LETTER TC DIGRAPH WITH CURL`
 
-## ʩʪʫʬʭ
+## ʩʪʫ
+名称：
+
+* `LATIN SMALL LETTER FENG DIGRAPH`
+* `LATIN SMALL LETTER LS DIGRAPH`
+* `LATIN SMALL LETTER LZ DIGRAPH`
+
+## ʬ
+名称：`LATIN LETTER BILABIAL PERCUSSIVE`
+
+## ʭ
+名称：`LATIN LETTER BIDENTAL PERCUSSIVE`
 
 ## ẞ
 名称：`LATIN CAPITAL LETTER SHARP S`
@@ -99,3 +129,4 @@ tags:
 
 ## Ꜫꜫ
 
+[^1]: https://en.wikipedia.org/wiki/?title=Small_capital_B&oldid=1342102472
