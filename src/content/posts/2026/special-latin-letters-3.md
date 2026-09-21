@@ -66,6 +66,19 @@ tags:
 * `LATIN SMALL LETTER TESH DIGRAPH`
 * `LATIN SMALL LETTER TC DIGRAPH WITH CURL`
 
+这些都是国际音标的二合字母，对应关系见表格：
+
+| 字符 | 音 |
+| ---- | -- |
+| ʣ | 浊齿龈擦音 |
+| ʤ | 浊齿龈塞擦音 |
+| ʥ | 浊龈腭擦塞音 |
+| ʦ | 清齿龈擦塞音 |
+| ʧ | 清龈后擦塞音 |
+| ʨ | 清龈腭擦塞音 |
+
+现在国际音标推荐使用带上括弧的两个字符展示这些字母，如/d͡ʑ/。
+
 ## ʩʪʫ
 名称：
 
@@ -73,32 +86,46 @@ tags:
 * `LATIN SMALL LETTER LS DIGRAPH`
 * `LATIN SMALL LETTER LZ DIGRAPH`
 
+这些字都属于拓展国际音标，用于记录语言障碍患者的异常发音，含义如下：
+
+| 字符 | 音 |
+| ---- | -- |
+| ʩ | 唇软腭擦音 |
+| ʪ | 清齿龈边擦音 |
+| ʫ | 浊齿龈边擦音 |
+
 ## ʬ
 名称：`LATIN LETTER BILABIAL PERCUSSIVE`
+
+拓展国际音标，表示双唇冲击音。
 
 ## ʭ
 名称：`LATIN LETTER BIDENTAL PERCUSSIVE`
 
+拓展国际音标，表示双齿冲击音。
+
 ## ẞ
 名称：`LATIN CAPITAL LETTER SHARP S`
+
+德语中ß的大写形式。之前这个字母的大写形式是SS，在2017年德语正字法议会将ẞ规定为ß大写形式的可接受变体，在2024年推荐使用ẞ代替SS。
 
 ## ẟ
 名称：`LATIN SMALL LETTER DELTA`
 
-## Ỻỻ
-名称：`LATIN CAPITAL LETTER MIDDLE-WELSH LL`
+**注意这不是希腊字母δ**。这个字母外观与希腊字母δ相似，但实际上来源于d的手写体，用于转写中世纪威尔士语，表示/ð/音。在现代威尔士语中这个音用dd表示。
 
-## Ỽỽ
+## ỺỻỼỽỾỿ
 名称：
 
+* `LATIN CAPITAL LETTER MIDDLE-WELSH LL`
+* `LATIN SMALL LETTER MIDDLE-WELSH LL`
 * `LATIN CAPITAL LETTER MIDDLE-WELSH V`
 * `LATIN SMALL LETTER MIDDLE-WELSH V`
-
-## Ỿỿ
-名称：
-
 * `LATIN CAPITAL LETTER Y WITH LOOP`
 * `LATIN SMALL LETTER Y WITH LOOP`
+
+这些字符都属于子区块*Medievalist additions*，均为用于中世纪威尔士语的字母。Ỻỻ是中世纪威尔士语的ll连字；Ỽỽ是中世纪威尔士语独有的字母，表示u、v和w的发音，通常转写为w；Ỿỿ则是一些中世纪威尔士研究者用于转写/y/音的字符。
+
 
 ## ⱧⱨⱩⱪⱫⱬ
 名称：
@@ -110,11 +137,21 @@ tags:
 * `LATIN CAPITAL LETTER Z WITH DESCENDER`
 * `LATIN SMALL LETTER Z WITH DESCENDER`
 
+这些字符都属于子区块*Additions for Uyghur*，均为维吾尔语曾经使用的“新维文”中的字母，与阿拉伯文对应关系如下：
+
+| 阿拉伯文 | 新维文 |
+| -------- | ------ |
+| ھ | Ⱨⱨ |
+| ق | Ⱪⱪ | 
+| ژ | Ⱬⱬ |
+
 ## Ⱶⱶ
 名称：
 
 * `LATIN CAPITAL LETTER HALF H`
 * `LATIN SMALL LETTER HALF H`
+
+罗马帝国皇帝克劳狄一世发明的字母。
 
 ## ⱺ
 名称：`LATIN SMALL LETTER O WITH LOW RING INSIDE`
@@ -130,3 +167,5 @@ tags:
 ## Ꜫꜫ
 
 [^1]: https://en.wikipedia.org/wiki/?title=Small_capital_B&oldid=1342102472
+
+[^2]: https://en.wikipedia.org/wiki/?title=%C3%9F&oldid=1344104835
