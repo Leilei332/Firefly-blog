@@ -151,10 +151,12 @@ tags:
 * `LATIN CAPITAL LETTER HALF H`
 * `LATIN SMALL LETTER HALF H`
 
-罗马帝国皇帝克劳狄一世发明的字母。
+罗马帝国皇帝克劳狄一世发明的字母，目前关于此字母的信息不太清楚。
 
 ## ⱺ
 名称：`LATIN SMALL LETTER O WITH LOW RING INSIDE`
+
+瑞典方言字母表的字符。
 
 ## ꜠꜡
 名称：
@@ -163,8 +165,27 @@ tags:
 * `MODIFIER LETTER STRESS AND LOW TONE`
 
 ## ꜢꜣꜤꜥ
+名称：
+
+* `LATIN CAPITAL LETTER EGYPTOLOGICAL ALEF`
+* `LATIN SMALL LETTER EGYPTOLOGICAL ALEF`
+* `LATIN CAPITAL LETTER EGYPTOLOGICAL AIN`
+* `LATIN SMALL LETTER EGYPTOLOGICAL AIN`
+
+## Ꜩꜩ
+名称：
+
+* `LATIN CAPITAL LETTER TZ`
+* `LATIN SMALL LETTER TZ`
+
 
 ## Ꜫꜫ
+名称：
+
+* `LATIN CAPITAL LETTER TRESILLO`
+* `LATIN SMALL LETTER TRESILLO`
+
+## ꜬꜭꜮꜯ
 
 [^1]: https://en.wikipedia.org/wiki/?title=Small_capital_B&oldid=1342102472
 
