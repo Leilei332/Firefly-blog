@@ -1,11 +1,16 @@
 ---
 title: 特殊的拉丁文Unicode字符一览（3）
-published: 2026-09-20
+published: 2026-09-24
 category: Unicode探索
 tags: 
 - Unicode
 - 语言
 ---
+
+前篇：
+
+* [特殊的拉丁文Unicode字符一览（1）](../special-latin-letters-1/)
+* [特殊的拉丁文Unicode字符一览（2）](../special-latin-letters-2/)
 
 ## ʍ
 名称：`LATIN SMALL LETTER TURNED W`
@@ -151,18 +156,20 @@ tags:
 * `LATIN CAPITAL LETTER HALF H`
 * `LATIN SMALL LETTER HALF H`
 
-罗马帝国皇帝克劳狄一世发明的字母，目前关于此字母的信息不太清楚。
+罗马帝国皇帝克劳狄一世发明的字母，目前关于此字母的信息不太清楚。其名称读音可能为/ʉː/，代表的音可能为/ʉ/或/ɨ/。这个字母消失的原因可能是因为其发音在口语中消失。[^3]
 
 ## ⱺ
 名称：`LATIN SMALL LETTER O WITH LOW RING INSIDE`
 
-瑞典方言字母表的字符。
+瑞典方言字母表的字符，用于转写瑞典方言，表示/o̞/发音。
 
 ## ꜠꜡
 名称：
 
 * `MODIFIER LETTER STRESS AND HIGH TONE`
 * `MODIFIER LETTER STRESS AND LOW TONE`
+
+乌拉尔音标所使用的字符。
 
 ## ꜢꜣꜤꜥ
 名称：
@@ -172,21 +179,24 @@ tags:
 * `LATIN CAPITAL LETTER EGYPTOLOGICAL AIN`
 * `LATIN SMALL LETTER EGYPTOLOGICAL AIN`
 
-## Ꜩꜩ
+分别用于转写古埃及语中的𓄿和𓂝，对应闪含语系语言中使用的alef和ayin字母。
+
+## ꜨꜩꜪꜫꜬꜭꜮꜯ
 名称：
 
 * `LATIN CAPITAL LETTER TZ`
 * `LATIN SMALL LETTER TZ`
-
-
-## Ꜫꜫ
-名称：
-
 * `LATIN CAPITAL LETTER TRESILLO`
 * `LATIN SMALL LETTER TRESILLO`
+* `LATIN CAPITAL LETTER CUATRILLO`
+* `LATIN SMALL LETTER CUATRILLO`
+* `LATIN CAPITAL LETTER CUATRILLO WITH COMMA`
+* `LATIN SMALL LETTER CUATRILLO WITH COMMA`
 
-## ꜬꜭꜮꜯ
+都是由西班牙方济各会修士Alonso de la Parra发明的用于转写玛雅语的字母，分别代表发音/ts/，/qʼ/，/kʼ/，/tsʼ/。其中字母Ꜫꜫ来源于数字3，其名称“Tresillo”在西班牙语中意为“小三”；ꜬꜭꜮꜯ来源于数字4，其名称“Cuatrillo”在西班牙语中意为“小四”。
 
 [^1]: https://en.wikipedia.org/wiki/?title=Small_capital_B&oldid=1342102472
 
 [^2]: https://en.wikipedia.org/wiki/?title=%C3%9F&oldid=1344104835
+
+[^3]: https://en.wikipedia.org/wiki/?title=Claudian_letters&oldid=1344217088
