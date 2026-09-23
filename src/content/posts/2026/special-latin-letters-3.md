@@ -195,6 +195,23 @@ tags:
 
 都是由西班牙方济各会修士Alonso de la Parra发明的用于转写玛雅语的字母，分别代表发音/ts/，/qʼ/，/kʼ/，/tsʼ/。其中字母Ꜫꜫ来源于数字3，其名称“Tresillo”在西班牙语中意为“小三”；ꜬꜭꜮꜯ来源于数字4，其名称“Cuatrillo”在西班牙语中意为“小四”。
 
+## Ꜳꜳ
+名称：
+
+* `LATIN CAPITAL LETTER AA`
+* `LATIN SMALL LETTER AA`
+* `LATIN CAPITAL LETTER AO`
+* `LATIN SMALL LETTER AO`
+* `LATIN CAPITAL LETTER AU`
+* `LATIN SMALL LETTER AU`
+* `LATIN CAPITAL LETTER AV`
+* `LATIN SMALL LETTER AV`
+* `LATIN CAPITAL LETTER AV WITH HORIZONTAL BAR`
+* `LATIN SMALL LETTER AV WITH HORIZONTAL BAR`
+* `LATIN CAPITAL LETTER AY`
+* `LATIN SMALL LETTER AY`
+
+
 [^1]: https://en.wikipedia.org/wiki/?title=Small_capital_B&oldid=1342102472
 
 [^2]: https://en.wikipedia.org/wiki/?title=%C3%9F&oldid=1344104835
