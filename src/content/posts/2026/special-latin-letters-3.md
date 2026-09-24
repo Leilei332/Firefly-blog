@@ -1,6 +1,6 @@
 ---
 title: 特殊的拉丁文Unicode字符一览（3）
-published: 2026-09-24
+published: 2026-09-25
 category: Unicode探索
 tags: 
 - Unicode
@@ -179,7 +179,7 @@ tags:
 * `LATIN CAPITAL LETTER EGYPTOLOGICAL AIN`
 * `LATIN SMALL LETTER EGYPTOLOGICAL AIN`
 
-分别用于转写古埃及语中的𓄿和𓂝，对应闪含语系语言中使用的alef和ayin字母。
+分别用于转写古埃及语中的𓄿和𓂝的发音。
 
 ## ꜨꜩꜪꜫꜬꜭꜮꜯ
 名称：
@@ -195,7 +195,7 @@ tags:
 
 都是由西班牙方济各会修士Alonso de la Parra发明的用于转写玛雅语的字母，分别代表发音/ts/，/qʼ/，/kʼ/，/tsʼ/。其中字母Ꜫꜫ来源于数字3，其名称“Tresillo”在西班牙语中意为“小三”；ꜬꜭꜮꜯ来源于数字4，其名称“Cuatrillo”在西班牙语中意为“小四”。
 
-## Ꜳꜳ
+## ꜲꜳꜴꜵꜶꜷꜸꜹꜺꜻꜼꜽꝎꝏ
 名称：
 
 * `LATIN CAPITAL LETTER AA`
@@ -210,6 +210,10 @@ tags:
 * `LATIN SMALL LETTER AV WITH HORIZONTAL BAR`
 * `LATIN CAPITAL LETTER AY`
 * `LATIN SMALL LETTER AY`
+* `LATIN CAPITAL LETTER OO`
+* `LATIN SMALL LETTER OO`
+
+中世纪古诺斯克语抄写本中出现的连字。
 
 
 [^1]: https://en.wikipedia.org/wiki/?title=Small_capital_B&oldid=1342102472
