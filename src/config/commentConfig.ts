@@ -56,7 +56,7 @@ export const commentConfig: CommentConfig = {
 		// 设置 Giscus 评论系统仓库
 		repo: "Leilei332/Firefly-blog",
 		// 设置 Giscus 评论系统仓库ID
-		repoId: "R_kgD2gfdFGd",
+		repoId: "R_kgDOT67LJQ",
 		// 设置 Giscus 评论系统分类
 		category: "Announcements",
 		// 获取 Giscus 评论系统分类ID
