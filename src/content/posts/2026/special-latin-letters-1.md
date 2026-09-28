@@ -1,6 +1,7 @@
 ---
 title: 特殊的拉丁文Unicode字符一览（1）
 published: 2026-08-14
+updated: 2026-09-28
 category: Unicode探索
 tags: 
 - Unicode
@@ -238,6 +239,8 @@ Unicode官方提到`EPSILON`是比`OPEN E`更加准确的名称。[^5]
 * `LATIN CAPITAL LETTER O WITH MIDDLE TILDE`
 * `LATIN SMALL LETTER BARRED O`
 
+旧名称：`LATIN CAPITAL LETTER BARRED O`
+
 这是一个用于突厥语族的拉丁字母，表示发音/œ/，包含在“统一突厥字母表”中，在1939年苏联推行西里尔化后，这个字母在大多数语言中被西里尔字母Ө（`CYRILLIC CAPITAL LETTER BARRED O`）取代。这个字母也被“新维文”使用过，也出现在非洲参考字母表中。
 
 有趣的是，这个字母的大小写中的名称不同，一个是`WITH MIDDLE TILDE`，一个是`BARRED`。不过官方文档的描述：
@@ -249,6 +252,11 @@ Unicode官方提到`EPSILON`是比`OPEN E`更加准确的名称。[^5]
 
 * `LATIN CAPITAL LETTER OI`
 * `LATIN SMALL LETTER OI`
+
+别名：
+
+* `LATIN CAPITAL LETTER GHA`
+* `LATIN SMALL LETTER GHA`
 
 这个字母曾用于一些突厥语系语言的拉丁文正字法中，如阿塞拜疆语，在我之前写的[从旧字典发现的旧拉丁维文](../old-latin-uyghur/)中提到的“新维文”也使用了这些字符。现在已被Ğğ等字符代替。
 
