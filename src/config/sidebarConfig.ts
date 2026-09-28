@@ -307,11 +307,6 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			},
 		},
 		{
-			type: "calendar",
-			enable: true,
-			showOnPostPage: true,
-		},
-		{
 			// 组件类型：站点统计组件
 			type: "stats",
 			// 是否启用该组件
