@@ -1,6 +1,7 @@
 ---
 title: 特殊的拉丁文Unicode字符一览（2）
 published: 2026-09-18
+updated: 2026-09-28
 category: Unicode探索
 tags: 
 - Unicode
@@ -153,10 +154,13 @@ ISO 6937遗留的兼容字符，在南非荷兰语中使用，目前已废弃。
 
 小的大写N，在国际音标中表示小舌鼻音。
 
-## ɷ
-名称：`LATIN SMALL LETTER CLOSED OMEGA`
+## ꟝ɷ
+名称：
 
-旧版国际音标，现已被[ʊ](../special-latin-letters-1/#ʊʊ)代替。
+* `LATIN CAPITAL LETTER CLOSED OMEGA`
+* `LATIN SMALL LETTER CLOSED OMEGA`
+
+闭合的拉丁Omega字母，其大写形式是在刚刚发布的Unicode 18.0中加入的，用于美洲的瓦卡什语系和萨利希语系的语言。其小写形式在旧版国际音标中被使用过，现已被[ʊ](../special-latin-letters-1/#ʊʊ)代替。
 
 ## ɸ
 名称：`LATIN SMALL LETTER PHI`
