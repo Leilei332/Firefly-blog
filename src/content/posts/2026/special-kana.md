@@ -8,7 +8,7 @@ tags:
 ---
 
 :::note
-以下
+你的字体需要支持Unicode 18.0中的假名拓展区块才能显示以下字符。
 :::
 
 广义上的假名包括以下区块：
@@ -135,12 +135,12 @@ tags:
 * `HIRAGANA LETTER ARCHAIC WU`
 * `KATAKANA LETTER ARCHAIC WU`
 
-## 𛄧
-不久前发布的Unicode 18.0中增加的历史片假名，对应变体假名𛂘。
+## 𛄧𛄨
 
-1909《活版見本》
+都是不久前发布的Unicode 18.0中增加的历史片假名，在1909年的《活版見本》中出现过。[^2]
 
-## 𛄨
+𛄧对应变体假名𛂘。
+
 不久前发布的Unicode 18.0中增加的历史片假名，对应变体假名𛄍、𛄎。
 
 [^1]: https://www.unicode.org/L2/L2020/20209r-taiwan-kana.pdf
