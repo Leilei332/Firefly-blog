@@ -55,11 +55,15 @@ tags:
 * `LATIN CAPITAL LETTER O WITH LOOP`
 * `LATIN SMALL LETTER O WITH LOOP`
 
-## ꝚꝛꝜꝝ
+中世纪古诺斯克语、挪威语、冰岛语等语言使用的字母，表示元音/ǫ/、/ø:/和/ey/。
+
+## Ꝛꝛ
 名称：
 
 * `LATIN CAPITAL LETTER R ROTUNDA`
 * `LATIN SMALL LETTER R ROTUNDA`
+
+Rr的一个书法位置变体，为Rr的哥特体写在o、b、p、h等带有圆形笔画的字母后面的形式。
 
 ## Ꝣꝣ
 名称：
@@ -91,7 +95,7 @@ tags:
 * `LATIN CAPITAL LETTER CON`
 * `LATIN SMALL LETTER CON`
 
-## ꝱꝲꝳꝴꝵꝶꝷꝸ
+## ꝱꝲꝳꝴꝵꝶꝷꝸꝜꝝ
 
 ## Ꞁꞁ
 名称：
