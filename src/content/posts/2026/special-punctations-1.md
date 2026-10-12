@@ -95,6 +95,11 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 
 这两个字符在HTML中的简易写法分别为`&dagger;`和`&Dagger;`。
 
+## •
+名称：`BULLET`
+
+和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`AL`（普通字母或符号），而中点符号为`AI`（歧义字符）
+
 ## ․
 名称：`ONE DOT LEADER`
 
@@ -108,7 +113,7 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 这个字符的兼容分解形式为...，也就是三个西文句号。这个字符在HTML中的简写形式为`&hellip;`。
 
 ## ‧
-名称：`HYPHENATION POINT`
+名称：
 
 和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`BA`（之后断行），而中点符号为`AI`（歧义字符）
 
@@ -119,10 +124,17 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 名称：`REFERENCE MARK`
 
 ## ‼⁇⁈⁉
+名称：
 
-‼︎ ‼️
+* `DOUBLE EXCLAMATION MARK`
+* `DOUBLE QUESTION MARK`
+* `QUESTION EXCLAMATION MARK`
+* `EXCLAMATION QUESTION MARK`
 
-⁉︎ ⁉️
+‼和⁉这两个字符有emoji变体，在其后面加上变体选择器15会强制将其变形为文本外观，加上变体选择器16则会将其强制变形为emoji外观：
+
+* ‼︎ ‼️
+* ⁉︎ ⁉️
 
 ## ‽⸘
 名称：
@@ -130,7 +142,9 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 * `INTERROBANG`
 * `INVERTED INTERROBANG`
 
-问叹结合符。这个字符由
+问叹结合符。这个字符由美国广告高管Martin K. Speckter发明，表示即惊叹又疑问的语气，其名称“Interrobang”来源于单词“interrogation”和“bang”的结合。
+
+⸘则是这个符号的翻转版本，用于西班牙语。
 
 ## ‿
 名称：`UNDERTIE`
