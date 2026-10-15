@@ -56,7 +56,7 @@ tags:
 * `SPACING MACRON`
 * `SPACING OVERSCORE`
 
-虽然两个字符看上去是一样的，但两字符的类别不同：Macron的类别是`Sk`（修饰符号），而Overline的类别是`Po`（其他标点符号）。
+虽然两个字符看上去很像，但两字符的类别不同：Macron的类别是`Sk`（修饰符号），而Overline的类别是`Po`（其他标点符号）。
 
 对这两个字符分别进行兼容分解会得到 ̄和 ̅，也就是空格分别加上`COMBINING MACRON`和`COMBINING OVERLINE`
 
@@ -98,7 +98,7 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 ## •
 名称：`BULLET`
 
-和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`AL`（普通字母或符号），而中点符号为`AI`（歧义字符）
+这个字符与·（`MIDDLE DOT`）为兼容等价关系。和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`AL`（普通字母或符号），而中点符号为`AI`（歧义字符）
 
 ## ․
 名称：`ONE DOT LEADER`
@@ -113,7 +113,7 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 这个字符的兼容分解形式为...，也就是三个西文句号。这个字符在HTML中的简写形式为`&hellip;`。
 
 ## ‧
-名称：
+名称：`HYPHENATION POINT`
 
 和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`BA`（之后断行），而中点符号为`AI`（歧义字符）
 
@@ -152,7 +152,7 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 ## ⁁
 名称：`CARET INSERTION POINT`
 
-`&caret;`
+这个字符在HTML中的简易写法为`&caret;`。
 
 ## ⁂
 名称：`ASTERISM`
@@ -164,12 +164,18 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 
 这个字符虽然外观与/（`SOLIDUS`）比较像，但属性不同：`FRACTION SLASH`的`gc`为`Sm`（数学符号），`lb`为`IS`（数字内缀）；`SOLIDUS`的`gc`为`Po`（其他标点），`lb`为`SY`（断行符号）。
 
-类似¼这样的符号的兼容分解形式中也使用此符号代表符号中的斜线。这个字符在HTML中的简易写法为`&frasl;`。
+类似¼这样的符号的兼容分解形式中使用此符号代表符号中的斜线，而不是/（`SOLIDUS`）。这个字符在HTML中的简易写法为`&frasl;`。
 
 ## ⁅⁆
-名称：`LEFT SQUARE BRACKET WITH QUILL`
+名称：
 
-## ⁊
-名称：`TIRONIAN SIGN ET`
+* `LEFT SQUARE BRACKET WITH QUILL`
+* `RIGHT SQUARE BRACKET WITH QUILL`
+
+## ⹒⁊
+名称：
+
+* `TIRONIAN SIGN CAPITAL ET`
+* `TIRONIAN SIGN ET`
 
 [^1]: https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references
