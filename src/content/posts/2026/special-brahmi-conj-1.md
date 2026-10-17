@@ -4,7 +4,7 @@ description: 为什么有些文字即使有对应键盘也难以打出来？
 published: 2026-10-19
 tags: 
 - 语言
-image: "../_images/devanagari_conj.avif"
+image: "../_images/devanagari_conj2.avif"
 ---
 
 在很多婆罗米书写系统中有一种virama字符：
