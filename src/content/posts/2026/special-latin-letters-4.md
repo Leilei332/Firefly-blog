@@ -71,11 +71,15 @@ Rr的一个书法位置变体，为Rr的哥特体写在o、b、p、h等带有圆
 * `LATIN CAPITAL LETTER VISIGOTHIC Z`
 * `LATIN SMALL LETTER VISIGOTHIC Z`
 
+西哥特字体中Zz的写法。
+
 ## Ꝩꝩ
 名称：
 
 * `LATIN CAPITAL LETTER VEND`
 * `LATIN SMALL LETTER VEND`
+
+古诺斯克语中曾使用的字母，与Ƿƿ一样来源于卢恩字母ᚹ，代表发音/u/，/v/，/w/，之后被字母v和u代替。
 
 ## Ꝫꝫ
 名称：
