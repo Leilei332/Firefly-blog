@@ -1,13 +1,13 @@
 ---
 title: 盘点婆罗米文字的辅音变形（1）
 description: 为什么有些文字即使有对应键盘也难以打出来？
-published: 2026-10-19
+published: 2026-10-20
 tags: 
 - 语言
 image: "../_images/bengali_conj.avif"
 ---
 
-在计算机上排版较为复杂的文本时经常会牵扯到连字，比如阿拉伯文、蒙古文
+在计算机上排版较为复杂的文本时经常会牵扯到各种连字，比如阿拉伯文、蒙古文。
 
 然而这种变形并不是婆罗米文字中最复杂的部分，也不是这篇文章的主题。在很多婆罗米书写系统中有一种看似毫不起眼的virama字符：
 
@@ -23,10 +23,12 @@ image: "../_images/bengali_conj.avif"
 * ◌් `SINHALA SIGN AL-LAKUNA`
 * ◌྄ `TIBETAN MARK HALANTA`
 * ◌္ `MYANMAR SIGN VIRAMA`
+* ◌᜔ `TAGALOG SIGN VIRAMA`
 * ◌្ `KHMER SIGN COENG`
 * ◌᩠ `TAI THAM SIGN SAKOT`
 * ◌᮫ `SUNDANESE SIGN VIRAMA`
 * ◌᭄ `BALINESE ADEG ADEG`
+* ◌᯲ `BATAK PANGOLAT`
 * ◌꠆ `SYLOTI NAGRI SIGN HASANTA`
 * ◌꣄ `SAURASHTRA SIGN VIRAMA`
 * ◌꥓ `REJANG VIRAMA`
@@ -114,8 +116,15 @@ image: "../_images/bengali_conj.avif"
 
 ![使用字体：Javanese Text](../_images/javanese_conj.avif)
 
-巴厘文与其类似，大部分辅音变形也都是直接放下面，其中部分辅音会去除右边一部分。辅音ᬚ（j）、ᬛ（jh）、ᬝ（ṭ）、ᬞ（ṭh）、ᬣ（th）、ᬤ（d）、ᬦ（n）、ᬧ（p）、ᬨ（ph）、ᬪ（bh）、ᬫ（m）、ᬬ（y）、ᬭ（r）、ᬯ（w）、ᬱ（ṣ）、ᬲ（s），附加在后面会变为ᬓ᭄ᬚ（j）、ᬓ᭄ᬛ（jh）、ᬓ᭄ᬝ（ṭ）、ᬓ᭄ᬞ（ṭh）、ᬓ᭄ᬣ（th）、ᬓ᭄ᬤ（d）、ᬓ᭄ᬦ（n）、ᬓ᭄ᬧ（p）、ᬓ᭄ᬨ（ph）、ᬓ᭄ᬪ（bh）、ᬓ᭄ᬫ（m）、ᬓ᭄ᬬ（y）、ᬓ᭄ᬭ（r）、ᬓ᭄ᬯ（w）、ᬓ᭄ᬱ（ṣ）、ᬓ᭄ᬲ（s）
+巴厘文与其类似，大部分辅音变形也都是直接放下面，其中部分辅音会去除右边一部分。辅音ᬚ（j）、ᬛ（jh）、ᬝ（ṭ）、ᬞ（ṭh）、ᬣ（th）、ᬤ（d）、ᬦ（n）、ᬧ（p）、ᬨ（ph）、ᬪ（bh）、ᬫ（m）、ᬬ（y）、ᬭ（r）、ᬯ（w）、ᬱ（ṣ）、ᬲ（s）是其中的特例，附加在后面会变为ᬓ᭄ᬚ（j）、ᬓ᭄ᬛ（jh）、ᬓ᭄ᬝ（ṭ）、ᬓ᭄ᬞ（ṭh）、ᬓ᭄ᬣ（th）、ᬓ᭄ᬤ（d）、ᬓ᭄ᬦ（n）、ᬓ᭄ᬧ（p）、ᬓ᭄ᬨ（ph）、ᬓ᭄ᬪ（bh）、ᬓ᭄ᬫ（m）、ᬓ᭄ᬬ（y）、ᬓ᭄ᬭ（r）、ᬓ᭄ᬯ（w）、ᬓ᭄ᬱ（ṣ）、ᬓ᭄ᬲ（s）
 
 ![使用字体：Noto Serif Balinese](../_images/balinese_conj.avif)
 
 从外形可以明显地看出两种文字的关系非常近。
+
+## 高棉文
+与前面婆罗米文字不同的是，高棉文用于形成连字的符号◌្（`KHMER SIGN COENG`）不像前面的virama字符一样同时有消去元音和辅音变形的的功能。标记消去元音的功能实际上是由字符◌៑（`KHMER SIGN VIRIAM`）承担的（现已废弃），这个字符不负责形成连字，而形成连字的符号（下方由一个类似加号的符号）并不在高棉文中存在，其外观一般不会显示，因此这个字符在官方文档中标有虚线方框。
+
+高棉文的大部分辅音变形都是直接加在下面，部分辅音如果上面有波浪结构会拆掉，特殊变形的辅音有ឃ（kh）、ង（ng）、ច（c）、ឆ（ch）、ជ（c）、ឈ（jh）、ញ（ñ）、ដ（d）、ឋ（ṭh）、ឍ（ḍh）、ថ（th）、ទ（t）、ធ（dh）、ន（n）、ម（m）、យ（y）、រ（r）、ល（l）、វ（v）、ឞ（ṣ）、ស（s）、ឡ（ḷ），附加在后面会变为ក្ឃ（kh）、ក្ង（ng）、ក្ច（c）、ក្ឆ（ch）、ក្ជ（c）、ក្ឈ（jh）、ក្ញ（ñ）、ក្ដ（d）、ក្ឋ（ṭh）、ក្ឍ（ḍh）、ក្ថ（th）、ក្ទ（t）、ក្ធ（dh）、ក្ន（n）、ក្ម（m）、ក្យ（y）、ក្រ（r）、ក្ល（l）、ក្វ（v）、ក្ឞ（ṣ）、ក្ស（s）、ក្ឡ（ḷ）
+
+![使用字体：Noto Serif Khmer](../_images/khmer_conj.avif)
