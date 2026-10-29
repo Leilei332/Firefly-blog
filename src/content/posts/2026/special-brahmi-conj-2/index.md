@@ -4,6 +4,7 @@ description: 为什么有些文字即使有对应键盘也难以打出来？
 published: 2026-11-01
 tags: 
 - 语言
+image: grantha_conj.avif
 ---
 
 前篇：[盘点婆罗米文字的辅音变形（1）](../special-brahmi-conj-1/)
@@ -34,10 +35,22 @@ tags:
 
 ![使用字体：Noto Serif Tibetan和Noto Sans Marchen](tibetan_and_marchen_conj.avif)
 
+## 八思巴文
+八思巴文是由宗教领袖八思巴以藏文为基础创造的文字，用于书写蒙古语、汉语、藏语等语言。虽然八思巴文属于婆罗米字母，是元音附标文字，但是由于它是竖着写的，表示元音的符号反而显得不像附标。
+
+八思巴文没有virama符号，其辅音变形由于较少都是单独编码的。由于八思巴文是基于藏文创制的，因此八思巴文的变形与藏文一致：在书写藏文时，当ꡓ（w）、ꡗ（y）、ꡘ（r）加在后面时会变为（以ꡀ为例）ꡀꡧ、ꡀꡨ、ꡀꡱ；当ꡘ加在前面时（以ꡀ为例）会变为ꡲꡀ。
+
+最后一个变形仅使用于藏语，倒数第三个变形仅适用于藏语和梵语，剩下两个变形仅适用于汉、藏、梵三种语言。[^2]
+
+![使用字体：Noto Sans Phags-Pa](phags_pa_conj.avif)
+
 ## 缅文
-和前面高棉文的情况一样，缅文的virama字符◌代表的符号实际上在缅文中不存在，这个字符仅用于辅音变形。
+和前面高棉文的情况一样，缅文的virama字符◌္（`MYANMAR SIGN VIRAMA`）代表的符号实际上在缅文中不存在，这个字符仅用于辅音变形。
+
+缅文的辅音变形较为灵活，大多数辅音都是加在前一个辅音的下面。为了防止字母宽度过大，န（n）在下加辅音时尾部会收缩（如န后加က变为န္က）；有些字符后加时会旋转（如က后加ဋ变为က္ဋ，后加ဍ变为က္ဍ，后加ဉ变为က္ဉ）。
 
 ## 古兰塔文
+古兰塔文是曾经泰米尔语使用者用来书写梵语的文字，与[泰米尔文](#泰米尔文)非常相似。大部分后加辅音变形都是缩小放在字母下面，较为通用的特殊变形是后加的𑌯（y）和𑌰（r），（以𑌕为例）附加在后面会变为𑌕𑍍𑌯（y）和𑌕𑍍𑌰（r）。前加的𑌰（r）也会变成另一种形状附加在辅音后面（如𑌰后加𑌕变为𑌰𑍍𑌕）。除此之外还有一些特殊变形。
 
 ![使用字体：Noto Serif Grantha](grantha_conj.avif)
 
@@ -47,7 +60,7 @@ tags:
 札那巴札尔方形字母的virama字符◌𑨴。变形功能拆分为了以下字符：
 
 * 𑨺 `ZANABAZAR SQUARE CLUSTER-INITIAL LETTER RA`
-* `ZANABAZAR SQUARE CLUSTER-FINAL LETTER *` 等字符
+* `ZANABAZAR SQUARE CLUSTER-FINAL LETTER *` 一系列字符
 * ◌𑩇 `ZANABAZAR SQUARE SUBJOINER` 
 
 ## 悉昙文
@@ -56,3 +69,5 @@ tags:
 ![使用字体：Noto Sans Siddham](siddham_conj.avif)
 
 [^1]: 这里不考虑辅音附加virama发生的变形
+
+[^2]: https://unicode.org/Public/18.0.0/charts/PDF/UA840.pdf
