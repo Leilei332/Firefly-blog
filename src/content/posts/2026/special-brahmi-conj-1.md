@@ -2,7 +2,7 @@
 title: 盘点婆罗米文字的辅音变形（1）
 description: 为什么有些文字即使有对应键盘也难以打出来？
 published: 2026-10-20
-updated: 2026-10-25
+updated: 2026-11-02
 tags: 
 - 语言
 image: "../_images/bengali_conj.avif"
@@ -22,13 +22,15 @@ image: "../_images/bengali_conj.avif"
 * ◌್ `KANNADA SIGN VIRAMA`
 * ◌് `MALAYALAM SIGN VIRAMA`
 * ◌් `SINHALA SIGN AL-LAKUNA`
+* ◌ฺ `THAI CHARACTER PHINTHU`
+* ◌຺ `LAO SIGN PALI VIRAMA`
 * ◌྄ `TIBETAN MARK HALANTA`
 * ◌္ `MYANMAR SIGN VIRAMA`
 * ◌᜔ `TAGALOG SIGN VIRAMA`
 * ◌្ `KHMER SIGN COENG`
 * ◌᩠ `TAI THAM SIGN SAKOT`
-* ◌᮫ `SUNDANESE SIGN VIRAMA`
 * ◌᭄ `BALINESE ADEG ADEG`
+* ◌᮫ `SUNDANESE SIGN VIRAMA`
 * ◌᯲ `BATAK PANGOLAT`
 * ◌꠆ `SYLOTI NAGRI SIGN HASANTA`
 * ◌꣄ `SAURASHTRA SIGN VIRAMA`
@@ -36,6 +38,7 @@ image: "../_images/bengali_conj.avif"
 * ◌꧀ `JAVANESE PANGKON`
 * ◌꫶ `MEETEI MAYEK VIRAMA`
 * ◌𐨿 `KHAROSHTHI VIRAMA`
+* ◌𑁆 `BRAHMI VIRAMA`
 * ◌𑂹 `KAITHI SIGN VIRAMA`
 * ◌𑄳 `CHAKMA VIRAMA`
 * ◌𑇀 `SHARADA SIGN VIRAMA`
@@ -53,9 +56,11 @@ image: "../_images/bengali_conj.avif"
 * ◌𑧠 `NANDINAGARI SIGN VIRAMA`
 * ◌𑨴 `ZANABAZAR SQUARE SIGN VIRAMA`
 * ◌𑪙 `SOYOMBO SUBJOINER`
+* ◌𑰿 `BHAIKSUKI SIGN VIRAMA`
 * ◌𑵅 `MASARAM GONDI VIRAMA`
 * ◌𑶗 `GUNJALA GONDI VIRAMA`
 * ◌𑽁 `KAWI SIGN KILLER`
+* 𖵫 `KIRAT RAI SIGN VIRAMA`
 
 从语言的方面来看，virama的作用就是消去辅音字母中的元音，比如क代表发音ka，而क्带表发音k。但在文字排版中，virama还有一个作用就是对辅音进行变形，用来形成叠辅音（在英文中这种字符叫subjoiner）。这个文章就是用来盘点一下各种婆罗米文字中的辅音变形。
 
