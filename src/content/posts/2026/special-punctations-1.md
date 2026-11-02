@@ -1,6 +1,6 @@
 ---
 title: 特殊的标点符号一览（1）
-published: 2026-10-01
+published: 2026-10-17
 category: Unicode探索
 tags: 
 - Unicode
@@ -32,11 +32,6 @@ tags:
 180翻转的感叹号和问号，为西班牙语使用的标点符号，分别加在感叹号和问号的开头。
 
 这个符号在HTML中的简易输入方法分别为`&iexcl;`和`&iquest;`。
-
-## ¦
-名称：`BROKEN BAR`
-
-`&brvbar;`
 
 ## SHY (U+00AD)
 名称：`SOFT HYPHEN`
@@ -83,7 +78,14 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 ## ‑
 名称：`NON-BREAKING HYPHEN`
 
-不断的连字符。其`lb`属性为`GL`（粘连字符）
+不断的连字符。这个字符与‐（`HYPHEN`）兼容等阶，其`lb`属性为`GL`（粘连字符）。
+
+## ‒ – — ― ⸺ ⸻
+名称：
+
+* `FIGURE DASH`
+
+`FIGURE DASH`、`EN DASH`的`lb`属性为`BA`（可在之后断行），`EM DASH`的`lb`属性为`B2`（两侧均可断行），`HORIZONTAL LINE`的`lb`属性则为`AI`（歧义字符）。
 
 ## †‡
 名称：
@@ -98,24 +100,24 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 ## •
 名称：`BULLET`
 
-这个字符与·（`MIDDLE DOT`）为兼容等价关系。和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`AL`（普通字母或符号），而中点符号为`AI`（歧义字符）
+专门用于表示无序列表的符号，为HTML中无序列表元素默认使用的符号，也就是`list-style-type`为`disc`时的符号[^2]。这个字符与·（`MIDDLE DOT`）为兼容等价关系。和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`AL`（普通字母或符号），而中点符号为`AI`（歧义字符）
 
 ## ․
 名称：`ONE DOT LEADER`
 
 专门用于排版的前导符，在目录中用于连接章节标题和对应页码。
 
-这个字符的兼容分解形式是.（`FULL STOP`）。与西文句号.（`FULL STOP`）相比，这个字符的`lb`（断行）属性是`IN`（不可分离），而西文句号则是`IS`（数字内缀）。
+这个字符与字符.（`FULL STOP`）为兼容等价关系。与西文句号.（`FULL STOP`）相比，这个字符的`lb`（断行）属性是`IN`（不可分离），而西文句号则是`IS`（数字内缀）。
 
 ## …
 名称：`HORIZONTAL ELLIPSIS`
 
-这个字符的兼容分解形式为...，也就是三个西文句号。这个字符在HTML中的简写形式为`&hellip;`。
+省略号，这个字符通常在中文中使用，大多数中文输入法中的`^`键会输入`……`。这个字符的兼容分解形式为...，也就是三个西文句号。与西文句号.（`FULL STOP`）相比，这个字符的`lb`（断行）属性是`IN`（不可分离）。这个字符在HTML中的简写形式为`&hellip;`。
 
 ## ‧
 名称：`HYPHENATION POINT`
 
-和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`BA`（之后断行），而中点符号为`AI`（歧义字符）
+用于字典的字符，用来给单词划分音节，如dictionaries可被划分为dic‧tion‧ar‧ies。和中点符号·（`MIDDLE DOT`）相比，这个字符的`lb`属性为`BA`（之后断行），而中点符号为`AI`（歧义字符）
 
 ## ‸
 名称：`CARET`
@@ -131,7 +133,7 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 * `QUESTION EXCLAMATION MARK`
 * `EXCLAMATION QUESTION MARK`
 
-‼和⁉这两个字符有emoji变体，在其后面加上变体选择器15会强制将其变形为文本外观，加上变体选择器16则会将其强制变形为emoji外观：
+一些由!和?组合而成的字符。之所以把这些算作特殊字符是因为‼和⁉这两个字符有emoji变体，在其后面加上变体选择器15会强制将其变形为文本外观，加上变体选择器16则会将其强制变形为emoji外观：
 
 * ‼︎ ‼️
 * ⁉︎ ⁉️
@@ -172,6 +174,8 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 * `LEFT SQUARE BRACKET WITH QUILL`
 * `RIGHT SQUARE BRACKET WITH QUILL`
 
+这个特殊的方括号的名称直译是“带有‘羽毛笔’的方括号”。
+
 ## ⹒⁊
 名称：
 
@@ -179,3 +183,5 @@ Macron在HTML的简易写法为：`&macr;`,`&strns;`；Overline在HTML中的简�
 * `TIRONIAN SIGN ET`
 
 [^1]: https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references
+
+[^2]: https://drafts.csswg.org/css-counter-styles-3/#simple-symbolic
